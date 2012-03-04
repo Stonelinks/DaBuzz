@@ -58,7 +58,7 @@ class delete:
   def POST(self, id):
     """ Delete based on ID """
     id = int(id)
-    model.del_todo(id)
+    model.del_article(id)
     raise web.seeother('/')
 
 if __name__ == "__main__":
