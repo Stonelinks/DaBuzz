@@ -1,7 +1,6 @@
 DABUZZ_DIR = /dabuzz
 DABUZZ_SERVER = stonelinks.org
 DABUZZ_USER = rcos-dabuzz
-LOCAL_PORT=5001
 
 deploy.remote:
 	@rsync -ahvve ssh --delete --exclude-from=.rsync-ignore ./ $(DABUZZ_USER)@$(DABUZZ_SERVER):$(DABUZZ_DIR)/server
@@ -16,4 +15,4 @@ echo.deployed:
 	@echo "\n\n"
 
 run.local:
-	@python server.py $(LOCAL_PORT)
+	@python server.py
