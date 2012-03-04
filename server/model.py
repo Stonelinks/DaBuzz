@@ -18,3 +18,20 @@ def new_todo(text):
 
 def del_todo(id):
   db.delete('todo', where="id=$id", vars=locals())
+
+def get_articles():
+  return db.select('articles', order='time_crawled')
+  
+def new_article(url, title, text, pos, neg, neu):
+  db.insert('articles', 
+            url=url, 
+            title=title, 
+            article_text=text, 
+            pos=pos, 
+            neg=neg,
+            neutral=neu)
+
+def del_article(id):
+  db.delete('articles', 
+            where="id=$id", 
+            vars=locals())

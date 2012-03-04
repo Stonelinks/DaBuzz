@@ -10,14 +10,27 @@ import config
 import time, os
 import web
 import model
+import crawler
 
 urls = (
   '/', 'index',
+  '/crawl', 'crawl',
   '/(static)/(.*)', 'static',
   '/del/(\d+)', 'delete'
 )
 
 render = web.template.render('templates', base='base')
+
+class crawl:
+  def GET(self):
+    for article in crawler.get_stories():
+      model.new_article(article[0], 
+                        article[1],
+                        article[2],
+                        article[3],
+                        article[4],
+                        article[5])
+    raise web.seeother('/')
 
 class index:
   form = web.form.Form(
@@ -28,7 +41,7 @@ class index:
 
   def GET(self):
     """ Show page """
-    todos = model.get_todos()
+    todos = model.get_articles()
     form = self.form()
     return render.test(todos, form)
 
@@ -36,7 +49,7 @@ class index:
     """ Add new entry """
     form = self.form()
     if not form.validates():
-      todos = model.get_todos()
+      todos = model.get_articles()
       return render.test(todos, form)
     model.new_todo(form.d.title)
     raise web.seeother('/')

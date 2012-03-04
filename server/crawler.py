@@ -46,16 +46,19 @@ def sentiment(text):
   response = urllib2.urlopen(req)
   return simplejson.loads(response.read())
 
-def sample():
+def get_stories():
   #Gets top stories from MarketWatch and analyzes their sentiment
   url = "http://feeds.marketwatch.com/marketwatch/topstories/"
   feed = feedparser.parse(url)
-  text_to_analyze = []
+  stories = []
   for entry in feed['entries']:
     title = entry['title']
+    url = entry['link']
+    summary = entry['summary']
     results = sentiment(title)
     if results["label"] != "Error":
-      print "%s: Overall %s, Positive %.2f, Negative: %.2f, Nuetral: %.2f" % (title, results["label"], results["probability"]["pos"]*100, results["probability"]["neg"]*100, results["probability"]["neutral"]*100)
-    
-if __name__ == "__main__":
-  sample()
+      pos = float(results["probability"]["pos"])
+      neg = float(results["probability"]["neg"])
+      neu = float(results["probability"]["neutral"])
+      stories.append( (url, title, summary, pos, neg, neu) )
+  return stories
