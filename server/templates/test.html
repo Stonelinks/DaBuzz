@@ -7,7 +7,7 @@ $def with (todos, form)
     </tr>
 $for todo in todos:
     <tr>
-        <td>$todo.title</td>
+        <td><a href="$todo.url" target="_blank">$todo.title</a></td>
         <td>
             <form action="del/$todo.id" method="post">
                 <input type="submit" value="Delete"/>
