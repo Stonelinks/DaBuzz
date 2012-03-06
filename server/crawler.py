@@ -47,18 +47,21 @@ def sentiment(text):
   return simplejson.loads(response.read())
 
 def get_stories():
-  #Gets top stories from MarketWatch and analyzes their sentiment
-  url = "http://feeds.marketwatch.com/marketwatch/topstories/"
-  feed = feedparser.parse(url)
   stories = []
-  for entry in feed['entries']:
-    title = entry['title']
-    url = entry['link']
-    summary = entry['summary']
-    results = sentiment(title)
-    if results["label"] != "Error":
-      pos = float(results["probability"]["pos"])
-      neg = float(results["probability"]["neg"])
-      neu = float(results["probability"]["neutral"])
-      stories.append( (url, title, summary, pos, neg, neu) )
+  #Gets top stories from MarketWatch and analyzes their sentiment
+  urls = ["http://feeds.marketwatch.com/marketwatch/topstories/",
+          "http://news.google.com/news?pz=1&cf=all&ned=us&hl=en&topic=b&output=rss"]
+  
+  for url in urls:
+    feed = feedparser.parse(url)
+    for entry in feed['entries']:
+      title = entry['title']
+      url = entry['link']
+      summary = entry['summary']
+      results = sentiment(title)
+      if results["label"] != "Error":
+        pos = float(results["probability"]["pos"])
+        neg = float(results["probability"]["neg"])
+        neu = float(results["probability"]["neutral"])
+        stories.append( (url, title, summary, pos, neg, neu) )
   return stories

@@ -2,7 +2,7 @@ $def with (todos, form)
 
 <table>
     <tr>
-        <th>Current Articles in System:</th>
+        <th>Current Articles in System!:</th>
         <th></th>
     </tr>
 $for todo in todos:
@@ -13,9 +13,5 @@ $for todo in todos:
                 <input type="submit" value="Delete"/>
             </form>
         </td>
-    </tr>    
-</table>  
-
-<form action="" method="post">
-$:form.render()
-</form>
+    </tr>
+</table>
