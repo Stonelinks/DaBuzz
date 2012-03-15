@@ -3,10 +3,13 @@ import psycopg2
 from random import randint
 
 class RequestJob(object):
+  def __init__(self, dbinfo):
+    self.dbinfo = dbinfo
+
   @cherrypy.expose
   @chrrypy.tools.json_out()
   def index(self):
-    conn = psycopg2.connect()
+    conn = psycopg2.connect(**self.dbinfo)
 
     cur = conn.cursor()
 

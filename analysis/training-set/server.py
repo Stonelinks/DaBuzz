@@ -2,6 +2,8 @@ import cherrypy
 from requestjob import RequestJob
 from returnjob import ReturnJob
 
+from dbinfo_manager import recover
+
 class Root(object):
   @cherrypy.expose
   def index(self):
@@ -12,9 +14,12 @@ def main():
     'server.socket_host':'0.0.0.0',
   })
 
+  dbinfo = recover()
+
+
   root = Root()
-  root.requestjob = RequestJob()
-  root.returnjob = ReturnJob()
+  root.requestjob = RequestJob(dbinfo)
+  root.returnjob = ReturnJob(dbinfo)
 
   cherrypy.quickstart(root)
 
