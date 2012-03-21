@@ -1,1 +1,49 @@
-Hello, world!
+<HTML>
+<head>
+  <link rel="stylesheet" href="static/css/bootstrap.min.css">
+  <link rel="stylesheet" href="static/css/bootstrap-responsive.min.css">
+  <script src="static/js/bootstrap-min.js"></script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+<script>
+
+function rate(){
+  alert($("#articleid").text());
+}
+
+function refresh_text(){
+  $.getJSON({
+    url: "requestjob/",
+    success: function(data){
+      $("#training").text(data[1]);
+      $("#articleid").text(data[0]);
+    }
+  });
+}
+$(document).ready(function() {
+   refresh_text();
+   $(".btn").onclick(function(){
+     
+   });
+ });
+</script>
+
+</head>
+<body>
+  <div class="row">
+    <div class="span6 offset4">
+      <h1>Training:</h1>
+    </div>
+  </div>
+  <br><br>
+  <div class="row">
+    <div class="span6 offset4">
+      <p id="training">article_text</p>
+      <button class="btn success">Positive</button>
+      <button class="btn primary">Irrelevant</button>
+      <button class="btn danger">Negative</button>
+    </div>
+  </div>
+  <div id="articleid" style="display:none;">12345</div>
+</body>
+</HTML>

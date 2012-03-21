@@ -16,10 +16,15 @@ urls = (
   '/', 'index',
   '/crawl', 'crawl',
   '/(static)/(.*)', 'static',
+  '/train', 'train'
   '/del/(\d+)', 'delete'
 )
 
 render = web.template.render('templates', base='base')
+
+class train:
+  def GET(self):
+    return render.train()
 
 class crawl:
   def GET(self):
@@ -43,7 +48,7 @@ class index:
     """ Show page """
     todos = model.get_articles()
     form = self.form()
-    return render.test(todos, form)
+    return render.index(todos, form)
 
   def POST(self):
     """ Add new entry """
