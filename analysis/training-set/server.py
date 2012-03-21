@@ -15,7 +15,7 @@ def main():
   })
 
   dbinfo = recover()
-
+  print dbinfo
 
   root = Root()
   root.requestjob = RequestJob(dbinfo)

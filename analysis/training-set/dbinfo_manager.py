@@ -13,10 +13,17 @@ def create():
     pickler = pickle.Pickler(f)
 
     info = dict()
+
     info["host"] = raw_input("Enter your hostname: ")
-    info["port"] = raw_input("Enter your port number: ")
+
+    port = raw_input("Enter your port number (leave blank for 3306): ")
+    info["port"] = 3306 if port == "" else int(port)
+
     info["user"] = raw_input("Enter your username: ")
-    info["password"] = raw_input("Enter your password: ")
+
+    info["passwd"] = raw_input("Enter your password: ")
+
+    info["db"] = raw_input("Enter your database: ")
 
     pickler.dump(info)
 

@@ -1,5 +1,5 @@
 import cherrypy
-import psycopg2
+import MySQLdb
 from random import randint
 
 class RequestJob(object):
@@ -7,20 +7,24 @@ class RequestJob(object):
     self.dbinfo = dbinfo
 
   @cherrypy.expose
-  @chrrypy.tools.json_out()
+  @cherrypy.tools.json_out()
   def index(self):
-    conn = psycopg2.connect(**self.dbinfo)
+    conn = MySQLdb.connect(**self.dbinfo)
 
     cur = conn.cursor()
 
-    #Get the id and the paragraph for all elements with an empty score
-    sql = "SELECT id,para FROM trainset WHERE score IS NULL"
+    sql = "SELECT RAND()*(SELECT count(*) FROM articles WHERE trainset=1)"
     cur.execute(sql)
+    selection = int(cur.fetchone()[0])
 
-    #Pick a result
-    selection = radint(0, cur.rowcount-1)
-    result = cur.fetchall()[selection]
+    sql = "SELECT id,title FROM articles WHERE trainset=1 LIMIT 1 OFFSET %s"
+    args = [selection]
+    cur.execute(sql, args)
+
+    result = cur.fetchone()
 
     cur.close()
+
+    conn.close()
 
     return result
