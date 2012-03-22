@@ -43,7 +43,7 @@ class index:
     """ Show page """
     todos = model.get_articles()
     form = self.form()
-    return render.test(todos, form)
+    return render.index(todos, form)
 
   def POST(self):
     """ Add new entry """

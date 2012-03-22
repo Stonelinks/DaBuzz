@@ -1,1 +1,82 @@
-Hello, world!
+<HTML>
+<head>
+  <link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap.css">
+  <link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap-responsive.css">
+  <script src="http://tiensoon.com/demo/bootstrap/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+<style type="text/css">
+body {
+  text-align: center;
+}
+
+#title {
+  margin-top: 15px;
+}
+
+#success {
+  color: green;
+}
+</style>
+
+<script>
+
+function rate(btn){
+  var id = $("#articleid").text();
+  var score = 0;
+  if (btn == "pos"){
+    score = 1;
+  }else if(btn == "neg"){
+    score = -1;
+  }
+  
+  $.ajax({
+    type: "GET",
+    url: "http://stonelinks.org:8080/returnjob",
+    data: "articleid=" + id + "&score=" + score
+  }).done(function( msg ) {
+    $("#success").text(msg);
+    $("#success").fadeIn("slow", function(){
+      $("#success").fadeOut("slow");
+    });
+    refresh_text();
+  });
+}
+
+function refresh_text(){
+  $.getJSON("http://stonelinks.org:8080/requestjob/",
+    function(data){
+      $("#training").text(data[1]);
+      $("#articleid").text(data[0]);
+    }
+  );
+}
+
+$(document).ready(function() {
+   refresh_text();
+   $(".btn").click(function(){
+     rate($(this).attr('id'));
+   });
+ });
+</script>
+
+</head>
+<body>
+  <div class="row">
+    <div class="span6 offset4">
+      <h1 id="title">Training:</h1>
+    </div>
+  </div>
+  <br><br>
+  <div class="row">
+    <div class="span6 offset4">
+      <p id="training">Loading...</p>
+      <button id="pos" class="btn success">Positive</button>
+      <button id="irr" class="btn primary">Irrelevant</button>
+      <button id="neg" class="btn danger">Negative</button>
+    </div>
+  </div>
+  <div id="articleid" style="display:none;">12345</div>
+  <h2 id="success"></h2>
+</body>
+</HTML>

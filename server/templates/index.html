@@ -1,0 +1,19 @@
+$def with (todos, form)
+
+<div class="row">
+  <div class="span6 offset4">
+    <h1>Current Articles in System:</h1>
+  </div>
+</div>
+<table>
+$for todo in todos:
+  <tr class="entry">
+    <td><a href="$todo.url" target="_blank">$todo.title</a></td>
+    <td>
+      $if todo.pos > todo.neg:
+        <img src="http://chart.apis.google.com/chart?chxl=0:|negative|neutral|positive&chxt=y&chs=300x150&cht=gm&chds=0,1&chd=t:$todo.pos&chl=Sentiment" width="300" height="150" alt="" style="padding:10px"/>
+      $else:
+        <img src="http://chart.apis.google.com/chart?chxl=0:|negative|neutral|positive&chxt=y&chs=300x150&cht=gm&chds=0,1&chd=t:$(1-todo.neg)&chl=Sentiment" width="300" height="150" alt="" style="padding:10px"/>
+    </td>
+  </tr>
+</table>
