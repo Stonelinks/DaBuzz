@@ -115,12 +115,7 @@ class LineWriter(formatter.AbstractWriter):
         output += s
     return output
 
-#response = urllib2.urlopen('http://www.marketwatch.com/news/story.asp?guid=%7BA06AE72A-6964-11E1-8125-002128040CF6%7D&siteid=rss&rss=1')
-response = urllib2.urlopen('http://online.wsj.com/article/BT-CO-20120307-716232.html')
-html = response.read()
-s = extract_text(html)
-print '\n'*8, s
-
-# TODO
-# remove everything that is not an ascii character
-# make everything lowercase
+def bag_o_words_from_url(url):
+  response = urllib2.urlopen(str(url))
+  html = response.read()
+  return extract_text(html)

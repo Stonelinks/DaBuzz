@@ -27,6 +27,8 @@ import simplejson
 import urllib2
 import feedparser
 
+import html_extract
+
 def sentiment(text):
   #Really basic sample, if it fails url encoding, it gives up...
   url = 'http://text-processing.com/api/sentiment/'
@@ -57,8 +59,8 @@ def get_stories():
     for entry in feed['entries']:
       title = entry['title']
       url = entry['link']
-      summary = entry['summary']
-      results = sentiment(title)
+      summary = html_extract.bag_o_words_from_url(url)
+      results = sentiment(summary)
       if results["label"] != "Error":
         pos = float(results["probability"]["pos"])
         neg = float(results["probability"]["neg"])
