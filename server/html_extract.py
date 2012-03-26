@@ -40,6 +40,9 @@ class Paragraph:
  
 class LineWriter(formatter.AbstractWriter):
   def __init__(self, *args):
+    #Was crashing. Added line. Crashing stopped.
+    #Possibly broken in subtle way now, maybe not.
+    self.index = 0
     self.last_index = 0
     self.lines = [Paragraph()]
     formatter.AbstractWriter.__init__(self)
