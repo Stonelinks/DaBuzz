@@ -20,12 +20,13 @@ class Learner(object):
     self.classifier = None
 
   def add_string(self, s, tag):
-    if tag not in ["+", "-"]:
+    if tag not in [1, -1, 0]:
       raise
 
-    self.data.append( (extract_features(s), tag) )
+    self.data.append( (self.extract_features(s), tag) )
 
-    self.classifier = nltk.NaieveBayesClassifier.train(self.train_set)
+  def train(self):
+    self.classifier = nltk.NaiveBayesClassifier.train(self.data)
 
   def extract_features(self, s):
     #Remove irregularities in the string

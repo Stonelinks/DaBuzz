@@ -1,7 +1,12 @@
 import pickle
 
+import os
+
+path = os.path.dirname(os.path.abspath(__file__))
+dbinfo_location = os.path.join(path, "dbinfo")
+
 def recover():
-  with open("dbinfo","rb") as f:
+  with open(dbinfo_location,"rb") as f:
     unpickler = pickle.Unpickler(f)
 
     info = unpickler.load()
