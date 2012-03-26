@@ -20,7 +20,7 @@ def del_todo(id):
   db.delete('todo', where="id=$id", vars=locals())
 
 def get_articles():
-  return db.select('articles', order='time_crawled', limit=20)
+  return db.select('articles', order='time_crawled DESC', limit=50)
   
 def new_article(url, title, text, pos, neg, neu):
   db.insert('articles', 
