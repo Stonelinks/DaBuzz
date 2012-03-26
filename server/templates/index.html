@@ -5,15 +5,23 @@ $def with (todos, form)
     <h1>Current Articles in System:</h1>
   </div>
 </div>
-<table>
+<table class="table">
+  <thead>
+    <tr>
+      <th><h2>Article</h2></th>
+      <th><h2>Sentiment</h2></th>
+    </tr>
+  </thead>
+  <tbody>
 $for todo in todos:
   <tr class="entry">
     <td><a href="$todo.url" target="_blank">$todo.title</a></td>
     <td>
       $if todo.pos > todo.neg:
-        <img src="http://chart.apis.google.com/chart?chxl=0:|negative|neutral|positive&chxt=y&chs=300x150&cht=gm&chds=0,1&chd=t:$todo.pos&chl=Sentiment" width="300" height="150" alt="" style="padding:10px"/>
+        <img src="http://chart.apis.google.com/chart?chxl=0:|negative|neutral|positive&chxt=y&chs=200x100&cht=gm&chds=0,1&chd=t:$todo.pos" width="200" height="100" alt="" style="padding:10px"/>
       $else:
-        <img src="http://chart.apis.google.com/chart?chxl=0:|negative|neutral|positive&chxt=y&chs=300x150&cht=gm&chds=0,1&chd=t:$(1-todo.neg)&chl=Sentiment" width="300" height="150" alt="" style="padding:10px"/>
+        <img src="http://chart.apis.google.com/chart?chxl=0:|negative|neutral|positive&chxt=y&chs=200x100&cht=gm&chds=0,1&chd=t:$(1-todo.neg)" width="200" height="100" alt="" style="padding:10px"/>
     </td>
   </tr>
+  </tbody>
 </table>
