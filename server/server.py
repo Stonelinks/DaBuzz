@@ -5,7 +5,6 @@ abspath = os.path.dirname(__file__)
 sys.path.append(abspath)
 os.chdir(abspath)
 
-
 import config
 import time, os
 import web
