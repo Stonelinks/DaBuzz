@@ -14,6 +14,7 @@ import crawler
 urls = (
   '/', 'index',
   '/crawl', 'crawl',
+  '/blog', 'blog',
   '/(static)/(.*)', 'static',
   '/del/(\d+)', 'delete'
 )
@@ -32,26 +33,20 @@ class crawl:
     raise web.seeother('/')
 
 class index:
-  form = web.form.Form(
-    web.form.Textbox('title', web.form.notnull, 
-      description="I need to:"),
-    web.form.Button('Add todo'),
-  )
-
   def GET(self):
     """ Show page """
     todos = model.get_articles()
-    form = self.form()
-    return render.index(todos, form)
+    return render.index(todos)
 
   def POST(self):
-    """ Add new entry """
-    form = self.form()
-    if not form.validates():
-      todos = model.get_articles()
-      return render.test(todos, form)
-    model.new_todo(form.d.title)
     raise web.seeother('/')
+
+class blog:
+  def GET(self):
+    return render.blog()
+
+  def POST(self):
+    return self.GET()
 
 class delete:
   def POST(self, id):
