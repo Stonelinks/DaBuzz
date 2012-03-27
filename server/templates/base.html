@@ -12,27 +12,69 @@ $def with (page)
     <link rel="stylesheet" href="static/css/bootstrap-responsive.min.css">
     <link href='http://fonts.googleapis.com/css?family=Pontano+Sans' rel='stylesheet' type='text/css'>
     <style type="text/css">
-      body {
-        padding-top: 40px;
-      }
-      
-      .container > footer p {
-        text-align: center;
-      }
-
-      table {
-        vertical-align: center;
+    
+      html, body {
+        background-image: url("static/img/stripe.png");
+        padding-bottom: 200px;
         font-family: 'Pontano Sans', sans-serif;
       }
+      
+      .navbar {
+        margin-bottom: 0px;
+        border-bottom: 1px solid #333;
+        font-size: 180%;
+      }
 
+      #nav-wraper {
+        padding: 10px;
+      }
+      
+      .nav {
+        padding-top: 18px;
+        padding-bottom: 18px;
+      }
+      
+      #sidebar {
+        float: right;
+        padding: 40px;
+        padding-top: 20px;
+        padding-bottom: 10px;
+      }
+      
+      #sidebar > div {
+        border: 1px solid #333;
+      }
+      
+      #page-body {
+        background-color: #fff;
+        padding: 40px;
+        padding-top: 10px;
+
+        -webkit-border-radius: 0 0 16px 16px;
+           -moz-border-radius: 0 0 16px 16px;
+                border-radius: 0 0 16px 16px;
+
+        border-left: 1px solid #333;
+        border-right: 1px solid #333;
+        border-bottom: 1px solid #333;
+      }
+      
       .topbar .btn {
         border: 0;
       }
       
       #footer {
+        background-color: #eee;
         text-align: center;
-        margin: 10px;
-        padding: 5px;
+        margin: 0px;
+        padding: 15px;
+        padding-bottom: 50px;
+        border-top: 1px solid #333;
+      }
+          
+      table {
+        vertical-align: center;
+        font-family: 'Pontano Sans', sans-serif;
       }
       
       #sentiment_table td{
@@ -43,7 +85,28 @@ $def with (page)
     </style>
   </head>
   <body>
-    <div class="container">
+    <div class="navbar">
+      <div class="navbar-inner">
+        <div class="container-fluid" id="nav-wraper">
+          <a href="/dabuzz/" style="float: left;"><img src="static/img/stupid-small.png"></a>
+          <div id="brand-wrapper" style="
+            padding-top: 20px;
+            align: left;
+            float: left;
+            display:inline;">
+          <a href="/dabuzz/"><h1 style="color: #eee; font-size: 200%;">DaBuzz</h1></a>
+            <h2 style="color: #eee;">An Informed Stock Market</h2></div>
+            <ul class="nav pull-right">
+              <li><a href="#">About</a></li>
+              <li><a href="#">Blog</a></li>
+              <li><a href="#">Rankings</a></li>
+              <li><a href="#">Portfolio</a></li>
+              <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+      </div>
+    </div>
+    <div class="container" id="page-body">
       <div class="content">
         $:page
       </div>
