@@ -15,6 +15,7 @@ urls = (
   '/', 'index',
   '/crawl', 'crawl',
   '/blog', 'blog',
+  '/about', 'about',
   '/(static)/(.*)', 'static',
   '/del/(\d+)', 'delete'
 )
@@ -44,6 +45,13 @@ class index:
 class blog:
   def GET(self):
     return render.blog()
+
+  def POST(self):
+    return self.GET()
+
+class about:
+  def GET(self):
+    return render.about()
 
   def POST(self):
     return self.GET()
