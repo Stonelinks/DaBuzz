@@ -1,0 +1,46 @@
+$def with (top_pos, top_neg)
+
+<div class="row">
+    <h1 style="text-align:center">Top Positive Articles:</h1>
+  </div>
+</div>
+
+<table class="table" id="sentiment_table">
+  <thead>
+    <tr>
+      <th><h2>Article</h2></th>
+      <th><h2>Sentiment</h2></th>
+    </tr>
+  </thead>
+<tbody>
+$for todo in top_pos:
+  <tr class="entry">
+    <td><a href="$todo.url" target="_blank">$todo.title</a></td>
+    <td>
+      <img src="http://chart.apis.google.com/chart?chxl=0:|negative|neutral|positive&chxt=y&chs=200x100&cht=gm&chds=0,1&chd=t:$todo.pos" width="200" height="100" alt="" style="padding:10px"/>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<div class="row">
+    <h1 style="text-align:center">Top Negative Articles:</h1>
+  </div>
+
+<table class="table" id="sentiment_table">
+  <thead>
+    <tr>
+      <th><h2>Article</h2></th>
+      <th><h2>Sentiment</h2></th>
+    </tr>
+  </thead>
+  <tbody>
+$for todo in top_neg:
+  <tr class="entry">
+    <td><a href="$todo.url" target="_blank">$todo.title</a></td>
+    <td>
+        <img src="http://chart.apis.google.com/chart?chxl=0:|negative|neutral|positive&chxt=y&chs=200x100&cht=gm&chds=0,1&chd=t:$(1-todo.neg)" width="200" height="100" alt="" style="padding:10px"/>
+    </td>
+  </tr>
+</tbody>
+</table>
