@@ -1,0 +1,1844 @@
+AA.P	Alcoa Inc Pf 3.75
+AADR	Wcm Bny Focused Growth Adr ETF
+AAU	Almaden Minerals
+AAVX	Etracs Daily Short 1 Month S&P
+ABCS	Guggenheim Abc High Dividend Et
+ABI	Safety First Trust
+ACCU	
+ACU	Acme United Corporation.
+ACWV	
+ACY	Aerocentury
+ADGE	American Dg Energy Inc.
+ADK	Adcare Health Systems Inc
+ADZ	DB Agriculture Short Etn
+AE	Adams Resources & Energy
+AEN	Adeona Pharmaceuticals
+AFK	Market Vectors-Africa Index ETF
+AGA	DB Agriculture Double Short Etn
+AGEM	Egshares Gems Composite ETF
+AGF	DB Agriculture Long Etn
+AGG	Barclays Aggregate Bond Fund
+AGLS	
+AGOL	ETFs Asian Gold Trust Etv
+AGQ	Ultra Silver
+AGRG	Russell Aggressive Growth ETF
+AGX	Argan
+AGZ	Barclays Agency Bond Fund
+AHB	Safety First Trust
+AHY	Safety First Trust
+AIA	S&P Asia 50
+AIM	Aerosonic Corp.
+AIS	Antares Pharma
+AJB	Safety First Trust
+AKE	Safety First Trust
+AKN	Safety First Trust
+ALD	Wisdomtree Asia Local Debt Fund
+ALN	American Lorain Corp.
+ALT	Diversified Alternatives Trust
+ALUM	Global X Aluminum ETF
+AMJ	JP Morgan Alerian Mlp Index
+AMLP	Alerian Mlp ETF
+AMM	Safety First Trust
+AMS	American Shared Hospital Services
+AND	Global X Ftse Andean 40 ETF
+ANO	Anooraq Resources Corp.
+ANV	Allied Nevada Gold Corp
+ANX	Adventrx Pharmaceuticals
+AOA	S&P Aggressive Allocation
+AOK	S&P Conservative Allocation
+AOM	S&P Moderate Allocation
+AOR	S&P Growth Allocation
+API	Advanced Photonix
+APP	American Apparel Inc
+APT	Alpha Pro Tech
+APTS	Preferred Apartment Communities
+AQQ	American Spectrum Realty
+ARGT	Global X Ftse Argentina 20 ETF
+ARR.W	Armour Residential Reit Inc. W
+ASEA	Global X Ftse Asean 40 ETF
+ASM	Avino Silver & Gold
+ATA	Safety First Trust
+ATC	Cycle Country Accessories Corp.
+ATSC	Ats Corp.
+AUD	
+AUMN	Golden Minerals Co.
+AUNZ	
+AUSE	Wisdomtree Australia Dividend Fund
+AVL	Avalon Rare Metals
+AWX	Avalon Holdings Corp.
+AXDI	MSCI Ex US Consumer Sector
+AXEN	MSCI Ex US Energy Sector
+AXHE	MSCI Ex US Health Care Sector
+AXID	MSCI Ex US Industrials Sector
+AXIT	MSCI Ex US Info Tech Sector
+AXJL	Wisdomtree Asia-Pacific Ex-Japan Fund
+AXK	Accelr8 Technology Corp.
+AXMT	MSCI Ex US Materials Sector
+AXN	China Aoxing Pharmaceutical Company
+AXSL	Tmsci Ex US Consumer Staples Sector
+AXTE	MSCI Ex US Telecom Services Sector
+AXU	Alexco Resource Corp
+AXUT	MSCI Ex US Utilities Sector
+AYT	Barclays Gems Asia -8
+AZC	Augusta Resource Corp.
+AZK	Aurizon Mines
+BAA	Banro Corp.
+BAB	Build America Bond Portfolio
+BABS	Nuveen Build America Bond ETF
+BABZ	Pimco Build America Bond Fund ETF
+BAL	DJ-UBS Cotton Tr Etn
+BARL	Morgan Stanley S&P 500 Crude Oi
+BARN	Global X Farming ETF
+BBH	Market Vectors Biotech ETF
+BBVX	Etracs Daily Short 2 Month S&P
+BCM	Ipath Pure Beta Broad Commodity
+BCV	Bancroft Convertible Fund
+BDCL	2Xleveraged Long Exchange Trade
+BDCS	UBS Ag Exchange Traded Access S
+BDD	DB Base Metals Double Long Etn
+BDG	DB Base Metals Long Etn
+BDL	Flanigan's Enterprises
+BDR	Blonder Tongue Laboratories
+BFY	Blackrock New York Muni Trust Ii
+BGU	Direxion Large Cap Bull 3X Shares
+BGZ	Direxion Large Cap Bear 3X Shares
+BHB	Bar Harbor Bankshares
+BHV	Blackrock Virginia Muni Trust
+BIK	S&P Bric 40
+BIL	Barclays 1-3 Month T-Bill
+BIR-A	Berkshire Rlty 9.00A
+BIV	Vg Intermediate-Term Bond ETF
+BJK	Gaming ETF
+BKF	MSCI Bric
+BKJ	Bancorp Of New Jersey Inc
+BKLN	Powershares Exchange-Traded Fund Trust ETF
+BKR	Baker [Michael] Corp.
+BLD	Baldwin Technology Company
+BLE	Blackrock Muni Income Trust Ii
+BLJ	Blackrock New Jersey Muni Trust
+BLNG	Ipath Pure Beta Precious Metal
+BLV	Vg Long-Term Bond ETF
+BMJ	Birks & Mayors Inc.
+BND	Vg Total Bond Market ETF
+BNO	US Brent Oil Fund Lp Etv
+BOIL	
+BOM	DB Base Metals Double Short Etn
+BONE	Bacterin Intl Hldgs
+BONO	Market Vectors Latam Aggregate
+BOS	DB Base Metals Short Etn
+BPS	Blackrock Pennsylvania Strategic Muni
+BQY	S&P Quality Rankings Glbl Equ Mngd Tr
+BRAF	Global X Brazil Financials ETF
+BRAQ	Global X Brazil Consumer ETF
+BRAZ	Global X Brazil Mid Cap ETF
+BRD	Apollo Gold Corp.
+BRF	Brazil Small-Cap ETF
+BRIL	Direxion Daily Bric Bull 3X Shares
+BRIS	Direxion Daily Bric Bear 3X Shares
+BRN	Barnwell Industries
+BRXX	Emerging Indxx Brazil Infrastructure
+BSCC	Guggenheim Bulletshares 2012 ETF
+BSCD	Guggenheim Bulletshares 2013 ETF
+BSCE	Guggenheim Bulletshares 2014 ETF
+BSCF	Guggenheim Bulletshares 2015 ETF
+BSCG	Guggenheim Bulletshares 2016 ETF
+BSCH	Guggenheim Bulletshares 2017 ETF
+BSJC	Guggenheim 2012 High Yield ETF
+BSJD	Guggenheim 2013 High Yield ETF
+BSJE	Guggenheim 2014 High Yield ETF
+BSJF	Guggenheim 2015 High Yield ETF
+BSQ	Bank Of America Corp.
+BSV	Vg Short-Term Bond ETF
+BTAH	Quantshares U.S. Market Neutral High Beta Fund
+BTAL	Quantshares U.S. Market Neutral
+BTC	Community Bankers Trust Corporation.
+BTI	British American Tobacco Industries
+BTN	Ballantyne Strong Inc
+BTX	Biotime
+BUND	
+BUNL	Powershares Db German Bund Futu
+BUNT	Powershares Db 3X German Bund F
+BVX	Bovie Medical Corp.
+BWL.A	Bowl Amer Inc Cl A
+BWV	CBOE S&P 500 Buywrite Etn
+BWX	Barclays Intl Treasury Bond
+BWZ	SPDR Short Term International Bond
+BXDB	Short B Lev-Inv S&P 500 Tr Index
+BXDC	Short C Lev-Inv S&P 500 Tr Index
+BXUB	Long B Lev S&P 500 Tr Index
+BXUC	Long C Lev S&P 500 Tr Index
+BZC	Breeze-Eastern Corp.
+BZF	Dreyfus Brazilian Real Fund
+BZM	Blackrock Maryland Muni Trust
+BZQ	Ultrashort Msci Brazil ETF
+CAD	
+CAFE	Ipath Pure Beta Coffee Etn
+CAK	Camac Energy Inc.
+CANE	
+CAW	Cca Industries
+CBND	SPDR Barclays Capital Issuer Scored Corp Bond Et
+CBP	China Botanic Pharmaceutical Inc.
+CCA	Mfs California Insured Muni Trust
+CCF	Chase Corp.
+CCVX	Etracs Daily Short 3 Month S&P
+CCX	Dreyfus Commodity Currency
+CCXE	Wisdomtree Commodity Country Equity Fund
+CDK	Bank Of America Corp.
+CDY	Cardero Resource Corp.
+CEF	Central Fund Of Canada
+CEP	Constellation Energy Partners Llc
+CET	Central Securities Corp.
+CEV	Eaton Vance California Muni Income Trust
+CEW	Dreyfus Emerging Currency
+CFD	Nuveen Diversified Commodity Fund
+CFP	Cornerstone Progressive Return Fund
+CFT	Barclays Credit Bond Fund
+CGQ	Bank Of America Corp.
+CGR	Claude Resources
+CGW	Guggenheim S&P Global Water
+CH	Aberdeen Chile Fund
+CHEP	Quantshares U.S. Market Neutral
+CHGS	China Gengsheng Minerals
+CHIE	Global X China Energy ETF
+CHII	Global X China Industrials ETF
+CHIM	Global X China Materials ETF
+CHIQ	Global X China Consumer ETF
+CHIX	Global X China Financials ETF
+CHOC	Ipath Pure Beta Cocoa Etn
+CHXX	Emerging Indxx China Infrastructure
+CIK	Credit Suisse Asset Management
+CIU	Barclays Intermediate Credit Bond Fund
+CIX	Compx International Inc.
+CKX	Ckx Lands
+CLM	Cornerstone Strategic Value Fund
+CLY	10+ Year Credit Bond Fund
+CMD	Ultrashort DJ-Aig Commodity
+CMF	S&P Cali Muni Bond
+CMFO	China Marine Food Group
+CMT	Core Molding Technologies Inc
+CNAM	China Armco Metals
+CNDA	IQ Canada Small Cap ETF
+CNGL	China Nutrifruit Group
+CNPF	Global Canada Preferred ETF
+CNR	China Metro-Rural Holdings
+CNTR	Russell Contrarian ETF
+CNY	Vectors Chinese Renminbi/Usd Etn
+COLX	Market Vectors Colombia ETF
+CONG	Russell Consistent Growth ETF
+CONM	Conmed Healthcare Management
+COPX	Global X Copper Miners ETF
+CORN	Teucrium Corn Fund Etv
+CORP	Pimco Investment Grade
+COVR	Cover-All Technologies Inc
+COW	DJ-UBS Livestock Tr Etn
+COWL	Direxion Daily Agribusiness Bul
+COWS	Direxion Daily Agribusiness Bea
+CPER	
+CPHI	China Pharma Holdings
+CPI	IQ Real Return ETF
+CQP	Cheniere Energy Partners Lp
+CQQQ	Guggenheim China Technology ETF
+CRBQ	CRB Global Commodity Equity
+CRC	Chromcraft Revington
+CRF	Cornerstone Strategic Return Fund
+CRM.W	Salesforce.Com
+CRMD	Cormedix Inc
+CROP	IQ Global Agribusiness Small Ca
+CRUD	Teucrium Crude Oil Fund Exchange Traded Fund
+CRV	Coast Distribution System
+CRVP	Crystal Rock Holdings
+CSD	Guggenheim Spin-Off ETF
+CSJ	Barclays 1-3 Year Credit Bond Fund
+CSLS	Credit Suisse Long/Short Liquid Index ETF
+CSM	Credit Suisse 130/30
+CSMA	Credit Suisse Ag's Etn For Credit Suisse Merger
+CSMB	Credit Suisse Exchange Trade No
+CSMN	
+CTNN	Ipath Pure Beta Cotton Etn
+CTO	Consolidated-Tomoka Land Co.
+CTP	Ctpartners Executive Search Inc.
+CUO	Continental Materials Corp.
+CUPM	Ipath Pure Beta Copper Etn
+CUR	Neuralstem
+CURE	Direxion Daily Healthcare Bull
+CUT	Guggenheim Timber ETF
+CVF	Bank Of America Corp.
+CVM	Cel-Sci Corp.
+CVOL	C-Tracks Etn Citi VIX Tr
+CVR	Chicago Rivet & Machine Co.
+CVRT	Powershares Convertible Secur
+CVU	Cpi Aerostructures
+CVY	Guggenheim Multi-Asset Income ETF
+CWB	SPDR Convertible Bond ETF
+CWI	SPDR Msci Acwi Ex-Us ETF
+CXA	Nuveen California Muni Bond ETF
+CXM	Cardium Therapeutics
+CXZ	Crosshair Exploration & Mining Corp
+CYB	Dreyfus Chinese Yuan Fund
+CZA	Guggenheim Mid-Cap Core ETF
+DAG	DB Agriculture Double Long Etn
+DBA	DB Agriculture Fund
+DBB	DB Base Metals Fund
+DBBR	Db-X Msci Brazil Currency Hedge
+DBC	DB Commodity Index Tracking Fund
+DBCN	Db-X Msci Canada Currency Hedge
+DBE	DB Energy Fund
+DBEF	Db-X Msci Eafe Currency Hedged
+DBEM	Db-X Msci Emerging Markets Curr
+DBJP	Db-X Msci Japan Currency Hedged
+DBO	DB Oil Fund
+DBP	DB Precious Metals Fund
+DBS	DB Silver Fund
+DBU	Wisdomtree Global Ex-Us Utility Fund
+DBV	DB G10 Currency Harvest Fund
+DCNG	Ipath Seasonal Natural Gas Etn
+DDG	Short Oil & Gas
+DDM	Ultra Dow 30
+DDP	DB Commodity Short Etn
+DDVX	Etracs Daily Short 4 Month S&P
+DEE	DB Commodity Double Short Etn
+DEF	Guggenheim Defensive Equity ETF
+DEFL	
+DEJ	Dejour Enterprises Ltd
+DEM	Emerging Markets High-Yield Fund
+DENT	Dent Tactical ETF
+DES	Trust Smallcap Dividend Fund
+DEW	Europe High-Yielding Equity Fund
+DFE	Europe Smallcap Dividend Fund
+DFF	Bank Of America Corp.
+DFJ	Japan Smallcap Fund
+DFVS	Ipath US Treasury 5 Year Bear E
+DGL	DB Gold Fund
+DGLD	Velocityshares 3X Inverse Gold
+DGP	DB Gold Double Long Etn
+DGS	Emerging Market Smallcap Fund
+DGSE	Dgse Companies
+DGT	Streettracks Dow Jones Global Titans
+DGZ	DB Gold Short Etn
+DHS	High-Yielding Equity Fund
+DHY	Credit Suisse High Yield Bond Fund
+DIA	Diamonds Trust
+DIG	Ultra Oil & Gas
+DIM	International Midcap Dividend Fund
+DIRT	Ipath Pure Beta Agriculture Etn
+DIT	Amcon Distributing Company
+DJCI	DJ-UBS Commodity Index Tr
+DJP	DJ-UBS Commodity Index Tr Etn
+DLA	Delta Apparel
+DLBL	US Treasury Long Bond Bull Etn
+DLBS	US Treasury Long Bond Bear Etn
+DLN	Largecap Dividend Fund
+DLS	International Smallcap Fund
+DMF	Dreyfus Muni Income
+DNL	Wisdomtree Global Ex-U.S. Growth Fund
+DNN	Intl Uranium Corp
+DNO	US Short Oil Fund
+DOD	High Yield Select 10 Tr
+DOG	Short Dow 30
+DOL	International Largecap Dividend
+DON	Midcap Dividend Fund
+DOO	International Dividend Top 100
+DPK	Developed Markets Bear 3X Shares
+DPU	DB Commodity Long Etn
+DPW	Digital Power Corp.
+DRGS	
+DRJ	Dreams
+DRN	Direxion Real Estate Bull 3X Shares
+DRR	Vectors Double Short Euro Etn
+DRV	Direxion Real Estate Bear 3X Shares
+DRW	Wisdomtree Global Ex-Us Real Estate Fund
+DSI	Kld 400 Social
+DSLV	Velocityshares 3X Inverse Silve
+DSS	Document Security Systems
+DSTJ	Double Short US Long T-Bond
+DSUM	
+DSXJ	Double Short US 10 Year T-Note
+DTD	Total Dividend Fund
+DTH	Defa High-Yielding Equity Fund
+DTN	Dividend Ex-Financials Fund
+DTO	DB Crude Oil Double Short Etn
+DTUL	US Treasury 2-Year Bull Etn
+DTUS	US Treasury 2-Year Bear Etn
+DTYL	US Treasury 10-Year Bull Etn
+DTYS	US Treasury 10-Year Bear Etn
+DUG	Ultrashort Oil & Gas
+DUST	Direxion Daily Gold Miners Bear 3X Shares
+DVY	DJ Select Dividend
+DWM	Defa Fund
+DWX	S&P Intl Dividend ETF
+DXD	Ultrashort Dow 30
+DXJ	Japan Total Dividend Fund
+DXR	Daxor Corp.
+DYY	DB Commodity Double Long Etn
+DZK	Developed Markets Bull 3X Shares
+DZZ	DB Gold Double Short Etn
+EAD	Wells Fargo Advantage
+EAPS	Pax Msci Eafe Esg Index ETF
+EATX	Global X Food ETF
+EBND	SPDR Barclays Capital Emerging Markets Local Bon
+ECBE	
+ECF	Ellsworth Convertible Growth And Income
+ECH	MSCI Chile
+ECNS	MSCI China Small Cap Index Fund ETF
+ECON	Emerging Dow Jones Consumer Titan
+EDC	Direxion Emerging Markets Bull 3X Shares
+EDEN	
+EDIV	SPDR S&P Emerging Markets Dividend ETF
+EDV	Vg Extended Duration Treasury ETF
+EDZ	Direxion Emerging Markets Bear 3X Shares
+EEB	Guggenheim Bric ETF
+EEH	Spectrum Lg Cap U.S. Sector Etn
+EELV	
+EEM	MSCI Emerging
+EEMS	Ishares Msci Emerging Markets S
+EEMV	
+EEN	Guggenheim Ew Euro-Pacific Ldrs ETF
+EES	Smallcap Earnings Fund
+EET	Ultra Msci Emerging Markets
+EEV	Ultrashort Msci Emerging Markets
+EEVX	Etracs Daily Short 5 Month S&P
+EFA	MSCI Eafe
+EFAV	
+EFG	MSCI Growth
+EFNL	
+EFO	Ultra Msci Eafe
+EFU	Ultrashort Msci Eafe
+EFV	MSCI Value
+EFZ	Short Msci Eafe
+EGAS	Gas Natural Inc.
+EGI	Entree Gold Inc
+EGPT	Egypt Index ETF
+EGT	Entertainment Gaming Asia Inc.
+EGX	Engex
+EIA	Eaton Vance California Muni Bond Ii
+EIDO	MSCI Indonesia Investable Market
+EIM	Eaton Vance Muni Bond Fund
+EIO	Eaton Vance Ohio Muni Bond Fund
+EIP	Eaton Vance Pennsylvania Muni Bond
+EIPL	Etracs Monthly 2Xleveraged Next Generation Inter
+EIPO	Etracs Next Generation Internet Etn Due July 19
+EIRL	MSCI Ireland Capped Investable Market
+EIS	MSCI Israel Capped Investable Market
+EIV	Eaton Vance Muni Bond Fund Ii
+ELD	Emerging Markets Local Debt Fund
+ELLI	Ellie Mae Inc
+ELLO	Ellomay Capital Ltd Ordinary Sh
+ELMD	Electromed
+ELR	SPDR DJ Wilshire Large Cap ETF
+EMAN	Emagin Corp.
+EMB	JP Morgan Em Bond Fd
+EMER	IQ Emerging Markets Mid Cap ETF
+EMGX	Global X Russell Emerging Markets Growth
+EMI	Eaton Vance Michigan Muni Income Trust
+EMJ	Eaton Vance New Jersey Muni Bond
+EMLB	Long Enhanced Msci Emi
+EMLC	Emerging Markets Local Currency Bond ETF
+EMM	SPDR DJ Wilshire Mid Cap ETF
+EMT	Egshares Emerging Markets Metals & Mining ETF
+EMVX	Global X Russell Emerging Markets Value
+EMXX	
+ENA	Enova Systems Inc.
+ENOR	
+ENX	Eaton Vance New York Muni Bond Fund
+ENY	Guggenheim Canadian Energy Income ETF
+ENZL	MSCI New Zealand Investable Market
+EPHE	MSCI Philippines Investable Market
+EPI	India Earnings Fund
+EPM	Evolution Petroleum Corp.
+EPM-A	Evolution Petroleum Corporation
+EPOL	MSCI Poland Investable Market
+EPP	MSCI Pacific Ex-Japan
+EPS	Earnings 500 Fund
+EPU	MSCI All Peru Capped
+EPV	Ultrashort Msci Europe ETF
+EQIN	Russell Equity Income ETF
+EQL	Alps Equal Sector Weight ETF
+ERC	Wells Fargo Advantage Multi-Sector
+ERH	Wells Fargo Advantage Utilities And High
+ERO	Eur/Usd Exchange Rate Etn
+ERUS	MSCI Russia Capped
+ERX	Direxion Energy Bull 3X Shares
+ERY	Direxion Energy Bear 3X Shares
+ESA	Energy Services Acquisition Corp
+ESP	Espey Mfg. & Electronics
+ESR	MSCI Emerging Markets Eastern Europe
+ESTE	Earthstone Energy
+ETAK	Elephant Talk Commun
+ETF	Aberdeen Emerging Markets Telecommunications
+EU	Wisdomtree Euro Debt Fund
+EUM	Short Msci Emerging Markets
+EUO	Ultrashort Euro
+EUSA	MSCI Usa
+EVBN	Evans Bancorp
+EVI	Envirostarm
+EVJ	Eaton Vance New Jersey Muni Income Trust
+EVK	Ever-Glory International Group
+EVM	Eaton Vance California Muni Bond Fund
+EVO	Eaton Vance Ohio Muni Income Trust
+EVP	Eaton Vance Pennsylvania Muni Income Trust
+EVV	Eaton Vance Limited Duration
+EVX	Environment Index ETF Fund
+EVY	Eaton Vance New York Muni Income Trust
+EWA	MSCI Australia
+EWAC	MSCI All Country World [Acwi] Equal Weight ETF
+EWC	MSCI Canada
+EWD	MSCI Sweden
+EWEF	MSCI Eafe Equal Weight ETF
+EWEM	MSCI Emerging Markets Equal Weight ETF
+EWG	MSCI Germany
+EWGS	
+EWH	MSCI Hong Kong
+EWI	MSCI Italy
+EWJ	MSCI Japan
+EWK	MSCI Belgium
+EWL	MSCI Switzerland
+EWM	MSCI Malaysia
+EWMD	Rydex S&P Midcap 400 Equal Weig
+EWN	MSCI Netherlands
+EWO	MSCI Austria
+EWP	MSCI Spain
+EWQ	MSCI France
+EWRI	Russell 1000 Equal Weight ETF
+EWRM	Russell Midcap Equal Weight ETF
+EWRS	Russell 2000 Equal Weight ETF
+EWS	MSCI Singapore
+EWSM	Rydex S&P Smallcap 600 Equal We
+EWSS	
+EWT	MSCI Taiwan
+EWU	MSCI United Kingdom
+EWV	Ultrashort Msci Japan
+EWW	MSCI Mexico
+EWX	S&P Emerging Markets Small Cap ETF
+EWY	MSCI South Korea
+EWZ	MSCI Brazil
+EWZS	MSCI Brazil Small Cap Index Fund ETF
+EXE	Crexendo Inc
+EXI	S&P Global Industrials Sector
+EXT	Total Earnings Fund
+EZA	MSCI South Africa
+EZJ	Ultra Msci Japan
+EZM	Midcap Earnings Fund
+EZU	MSCI Emu
+EZY	Low P/E Fund
+FAA	Guggenheim Airline ETF
+FAB	Multi Cap Value Alphadex Fund
+FAD	Mufirst Trust Multi Cg Alphadex
+FAN	ISE Global Wind Energy ETF
+FAS	Direxion Financial Bull 3X Shares
+FAX	Aberdeen Asia-Pacific
+FAZ	Direxion Financial Bear 3X Shares
+FBM	Focus Basic Materials Index
+FBT	AMEX Biotechnology
+FBZ	First Trust Brazil Alphadex Fun
+FCA	First Trust China Alphadex Fund
+FCD	Focus Consumer Defensive Index
+FCG	Ise-Revere Natural Gas
+FCL	Focus Consumer Cycl
+FCO	Aberdeen Global
+FCQ	Focus Communication Services Index
+FDD	DJ Stoxx Dividend 30
+FDL	Morningstar Dividend Leaders
+FDM	DJ Microcap Index[Sm] Fund
+FDN	DJ Internet Indexsm Fund
+FDT	First Trust Developed Markets E
+FDV	DB Strategic Value
+FEG	Focus Energy Index
+FEM	First Trust Emerging Markets Al
+FEN	Energy Income And Growth Fund
+FEP	First Trust Europe Alphadex Fun
+FEU	Fresco DJ Stoxx 50
+FEX	Large Cap Core Alphadex
+FEZ	SPDR Euro Stoxx 50 ETF
+FFI	Fortune Diversified Industries
+FFL	Focus Financial Ser
+FFR	FTSE Epra Global Real Estate
+FGD	DJ Global Dividend
+FGEM	Egshares Financials Gems ETF
+FHC	Focus Health Care Index
+FIL	Focus Industrials Index
+FILL	
+FISN	Global X Fishing Industry ETF
+FIVZ	Pimco 3-7 Year U.S. Treasury
+FIW	ISE Water
+FJP	First Trust Japan Alphadex Fund
+FKO	First Trust South Korea Alphade
+FLAT	US Treasury Flattener Etn
+FLG	Focus Large Cap Ind
+FLL	Full House Resorts
+FLM	ISE Glb Engnrg And Const Idx
+FLN	First Trust Latin America Alpha
+FLOT	Ishares Floating Rate Note Fund
+FLTR	Market Vectors Investment Grade
+FMK	First Trust Mega Cap Alphadex F
+FMM	Focus Mid Cap Index
+FMU	Focus US Market Index
+FNI	ISE Chindia
+FNIO	FTSE Nareit Industrial/Office
+FNK	First Trust Mid Cap Value Alpha
+FNX	Mid Cap Core Alphadex
+FNY	First Trust Mid Cap Growth Alph
+FOH	Frederick's Of Hollywood Group
+FOL	Factorshares Oil Bull S&P500 Bear
+FOS	Focus Small Cap Ind
+FPA	First Trust Asia Pacific Ex-Jap
+FPP	Fieldpoint Petroleum Corp.
+FPX	Ipox-100
+FRD	Friedman Industries Inc.
+FRI	S&P Reit
+FRL	Focus Real Estate Index
+FRN	Guggenheim Frontier Markets ETF
+FRS	Frisch's Restaurants
+FSA	Factorshares 2X Tbond Bull S&P500 Bear
+FSE	Factorshares 2X S&P 500 Bull Tbond Bear
+FSG	Factorshares 2X Gold Bull S&P500 Bear
+FSI	Flexible Solutions International Inc.
+FSP	Franklin Street Properties
+FSU	Factorshares 2X S&P500 Bull Usd Bear
+FTA	Large Cap Value Opportunities Alphadex
+FTC	Large Cap Growth Opportunities Alphadex
+FTF	Franklin Templeton Limited Duration
+FTQ	Focus Technology In
+FTY	FTSE Nareit Real Estate 50
+FUD	Bloomberg Cmci Food Tr Etn
+FUE	Mlcx Biofuels Index Tr Etn
+FUI	Focus Utilities Ind
+FVD	Value Line Dividend
+FVI	Value Line Equity Allocation
+FVL	Value Line 100 ETF
+FWDB	Madrona Global Bond ETF
+FWDD	Madrona Domestic ETF
+FWDI	Madrona International ETF
+FWV	First West Virginia Bancorp
+FXA	Australian Dollar
+FXB	British Pound Sterling
+FXC	Canadian Dollar
+FXCH	
+FXD	Cons. Discret. Alphadex
+FXE	Euro Currency Trust
+FXF	Swiss Franc
+FXG	Cons. Staples Alphadex
+FXH	Health Care Alphadex
+FXI	Ftse-Xinhua China 25
+FXL	Technology Alphadex
+FXM	Mexican Peso
+FXN	Energy Alphadex Fund
+FXO	Financials Alphadex
+FXP	Ultrashort Ftse China 25
+FXR	Industrials Alphadex
+FXRU	Russian Ruble
+FXS	Swedish Krona
+FXU	Utilities Alphadex Fund
+FXY	Japanese Yen
+FXZ	Materials Alphadex Fund
+FYC	First Trust Small Cap Growth Al
+FYT	First Trust Small Cap Value Alp
+FYX	Small Cap Core Alphadex
+GAF	S&P Middle East & Africa ETF
+GASL	Direxion Daily Natural Gas Related Bull 3X Share
+GASX	Direxion Daily Natural Gas Related Bear 3X Share
+GASZ	Natural Gas Futures Contango Et
+GAZ	DJ-UBS Natural Gas Tr Etn
+GBB	Gbp/Usd Exchange Rate Etn
+GBF	Barclays Government/Credit Bond Fund
+GBG	Great Basin Gold
+GBR	New Concept Energy Inc
+GCC	Greenhaven Continuous Commodity
+GCE	Clarymore Cef GS Connect Etn
+GDX	Gold Miners ETF
+GDXJ	Junior Gold Miners ETF
+GERJ	Market Vectors ETF Trust
+GEX	Global Alternative Energy ETF
+GGEM	Egshares Consumer Goods Gems ETF
+GGGG	Global X Pure Gold Miners ETF
+GGN	The Gabelli Global Goldn Natural Resources
+GGN-A	Gabelli 6.625 Pfd A
+GGR	Geoglobal Resources Inc.
+GHM	Graham Corp.
+GII	SPDR Ftse/Macquarie Gi 100 ETF
+GIY	Guggenheim Enhanced Core Bond
+GLD	SPDR Gold Trust
+GLDX	Global X Gold Explorers ETF
+GLJ	10+ Year Government/Credit Bond Fund
+GLL	Ultrashort Gold
+GLO	Clough Global Opportunities Fund
+GLOW	
+GLQ	Clough Global Equity Fund
+GLTR	ETFs Physical Precious Metal ETF
+GLU	Gabelli Global Utility
+GLV	Clough Global Allocation Fund
+GMF	S&P Emerging Asia Pacific ETF
+GMFS	
+GML	S&P Emerging Latin America ETF
+GMM	S&P Emerging Markets ETF
+GMMB	Grail Intermediate Muni Bd
+GMO	General Moly Inc
+GMTB	Grail Core Taxable Bond
+GNAT	Wisdomtree Global Natural Resources Fund
+GNR	S&P Global Natural Resources ETF
+GOK	Geokinetics
+GORO	Gold Resource Corp.
+GPL	Great Panther Silver Limited
+GPR	Geopetro Resources Co
+GRC	Gorman-Rupp Company
+GREK	
+GRES	IQ Arb Global Resources ETF
+GRF	Eagle Capital Growth Fund
+GRH	Greenhunter Energy Inc
+GRI	Cohen & Steers Global Realty Majors ETF
+GRN	Global Carbon Etn
+GRPC	Russell Growth At A Reasonable
+GRU	Mlcx Grains Index Tr Etn
+GRWN	Ipath Pure Beta Softs Etn
+GRZ	Gold Reserve Inc
+GSB	Globalscape
+GSC	Goldman Sachs Group
+GSG	GSCI Commodity-Indexed Trust Fund
+GSP	S&P GSCI Total Return Etn
+GSS	Golden Star Resources Ltd
+GST	Gastar Exploration
+GST-A	Gastar Exploration 8.625% Serie
+GSX	Gasco Energy Inc
+GSY	Guggenheim Enhanced Short Duration Bond ETF
+GTAA	Cambria Global Tactical
+GTE	Gran Tierra Energy Inc.
+GTIP	Ishares Global Inflation Linked
+GTU	Central Gold Trust
+GUNR	
+GUR	S&P Emerging Europe ETF
+GV	Goldfield Corp.
+GVI	Barclays Intermediate Government/Credit Bond Fun
+GVP	Gse Systems
+GVT	Grail American Beacon Large Cap ETF
+GWL	S&P World Ex-Us ETF
+GWO	Elements Cs Global Warming Etn
+GWX	S&P Intl Smallcap ETF
+GXC	S&P China ETF
+GXF	Global X Ftse Nordic 30 ETF
+GXG	Global X/Interbolsa Ftse Colombia 20 ETF
+HAO	Guggenheim China Small Cap Index ETF
+HAP	Hard Assets Producers ETF
+HBP	Helix Biopherma Cp
+HBTA	Russell 1000 High Beta ETF
+HDG	Proshares Hedge Replication ETF
+HDGE	Advisorshares Active Bear ETF
+HDV	Ishares High Dividend Equity Fu
+HEB	Hemispherx Biopharma
+HEDJ	International Hedged Equity Fund
+HEVY	Ipath Pure Beta Industrial Meta
+HFB	Merrill Lynch & Co.
+HGEM	Egshares Health Care Gems ETF
+HGI	Guggenheim International Multi-Asset
+HH	Hooper Holmes
+HILO	Egshares Emerginf Markets Dividend
+HKN	Hkn
+HLM.P	Hillman Gr Cap 11.6
+HMG	Hmg/Courtland Properties
+HMTM	Russell 1000 High Momentum ETF
+HNB	Herald National Bank
+HNW	Pioneer Diversified High Income Trust
+HRT	Arrhythmia Research Technology Inc.
+HTM	U.S. Geothermal Inc.
+HUSA	Houston American Energy Corp.
+HVOL	Russell 1000 High Volatility ETF
+HWG	Hallwood Group Inc.
+HYD	High Yield Muni Index ETF
+HYG	Iboxx $ Hy Corp Bond Fund
+HYLD	Peritus High Yield ETF
+HYMB	SPDR Nuveen S&P Hi Yld Mun Bd
+HYS	Pimco 0-5 Year High Yield Corpo
+IAF	Aberdeen Australia Equity Fund Inc
+IAI	DJ U.S. Broker-Dealers
+IAK	DJ U.S. Insurance
+IAT	DJ U.S. Regional Banks
+IAU	Comex Gold Trust
+IBIO	Ibio
+IBND	SPDR International Bond ETF
+ICF	Cohen & Steers Realty Majors
+ICH	Investors Capital Holdings
+ICI	Optimized Currency Carry Etn
+ICN	Dreyfus Indian Rupee Fund
+IDI	Searchmedia Holdings
+IDI.W	Searchmedia Hldg Ltd
+IDLV	
+IDN	Intellicheck Mobilisia
+IDU	DJ U.S. Utilities
+IDV	DJ Epac Dividend
+IDX	Indonesia Index ETF
+IEC	Iec Electronics
+IEF	Barclays 7-10 Year Treasury Bond Fund
+IEI	Barclays 3-7 Year Treasury Bond Fund
+IEO	DJ U.S. Oil & Gas Exploration & Production Index
+IEV	S&P Europe 350
+IEZ	DJ U.S. Oil Equipment & Services
+IF	Aberdeen Indonesia Fund
+IFMI	Institutional Financial Markets
+IFO	Spx Lasers
+IG	Igi Laboratories
+IGC	India Globalization Capital Inc.
+IGC.U	India Globalization Capital Inc.
+IGC.W	India Globalization Capital
+IGE	Goldman Sachs Natural Resources
+IGEM	Egshares Industrials Gems ETF
+IGF	S&P Global Infrastructure
+IGM	Goldman Sachs Technology
+IGN	Goldman Sachs Network
+IGS	Short Investment Grade Corp
+IGU	Proshares Ultra Invt Grade Cor
+IGV	Goldman Sachs Software
+IHE	DJ U.S. Pharmaceutical
+IHF	DJ U.S. Health Care Providers Index
+IHI	DJ U.S. Medical Devices
+IHT	Innsuites Hospitality Trust
+IJH	S&P Midcap 400
+IJJ	S&P Midcap 400/Barra Value
+IJK	S&P Midcap 400/Barra Growth
+IJR	S&P Smallcap 600
+IJS	Small Cap 600/Barra Value
+IJT	Small Cap 600/Barra Growth
+ILF	S&P Latin America 40
+IMH	Impac Mortgage Holdings
+IMO	Imperial Oil Limited
+INCO	Eg Shares India Consumer ETF
+INDA	
+INDL	Direxion Daily India Bull 3X Shares
+INDZ	Direxion Daily India Bear 3X Shares
+INFL	
+INFU	Infusystems Holdings
+INO	Inovio Pharmaceuticals
+INP	MSCI India Index Etn
+INR	Jpmorgan Usd Emerg Markets Bond
+INS	Intelligent Systems Corp.
+INSD	
+INUV	Inuvo Inc
+INV	Innovaro Inc
+INXX	Emerging Indxx India Infrastructure
+INY	Barclays Ny Muni Bd
+IOIL	IQ Global Oil Small Cap ETF
+IOO	S&P Global 100
+IOT	Income Opportunity Realty Trust
+IPAL	
+IPB	Merrill Lynch & Co.
+IPD	S&P Intl Consumer Sector ETF
+IPE	SPDR Tips ETF
+IPF	S&P Intl Financial Sector ETF
+IPFF	
+IPK	S&P Intl Technology Sector ETF
+IPN	S&P Intl Industrial Sector ETF
+IPS	S&P Intl Consumer Staples Sector ETF
+IPT	Iparty Corp.
+IPU	S&P Intl Utilities Sector ETF
+IPW	S&P Intl Energy Sector ETF
+IRV	S&P Intl Materials Sector ETF
+IRY	S&P Intl Health Care Sector ETF
+ISI	S&P 1500
+ISL	Aberdeen Israel Fund
+ISR	Isoray
+IST	S&P Intl Telecom Sector ETF
+ITA	DJ U.S. Aerospace & Defense
+ITB	DJ U.S. Home Construction
+ITE	Barclays Interm Term Trs
+ITF	S&P/Topix 150
+ITI	Iteris
+ITIP	Ishares International Inflation
+ITLT	Powershares Db 3X Italian Treas
+ITLY	Powershares Db Italian Treasury
+ITM	Intermediate Muni Index ETF
+ITR	SPDR Intermediate Term ETF
+IVD	Ivax Diagnostics
+IVE	S&P 500/Barra Value
+IVOG	Vg S&P Mid-Cap 400 Growth ETF
+IVOO	Vg S&P Mid-Cap 400 ETF
+IVOP	
+IVOV	Vg S&P Mid-Cap 400 Value ETF
+IVV	S&P 500
+IVW	S&P 500/Barra Growth
+IWB	Russell 1000 ETF
+IWC	Russell Microcap ETF
+IWD	Russell 1000 Value ETF
+IWF	Russell 1000 Growth ETF
+IWL	Russell Top 200 ETF
+IWM	Russell 2000 ETF
+IWN	Russell 2000 Value ETF
+IWO	Russell 2000 Growth ETF
+IWP	Russell Midcap Growth ETF
+IWR	Russell Midcap ETF
+IWS	Russell Midcap Value
+IWV	Russell 3000 ETF ETF
+IWW	Russell 3000 Value ETF
+IWX	Russell Top 200 Value ETF
+IWY	Russell Top 200 Growth ETF
+IWZ	Russell 3000 Growth ETF
+IXC	S&P Global Energy ETF
+IXG	S&P Global Financial ETF
+IXJ	S&P Global Healthcare ETF
+IXN	S&P Global Technology ETF
+IXP	S&P Global Telecommunications ETF
+IYC	DJ U.S. Consumer
+IYE	DJ U.S. Oil And Gas Fund
+IYF	DJ U.S. Financials
+IYG	DJ U.S. Financial Services
+IYH	DJ U.S. Health Care
+IYJ	DJ U.S. Industrials
+IYK	DJ U.S. Consumer Goods
+IYM	DJ U.S. Basic Materials Index
+IYR	DJ U.S. Real Estate
+IYT	DJ Transportation Average
+IYW	DJ U.S. Technology
+IYY	DJ U.S. Total Market
+IYZ	DJ U.S. Telecommunications
+JEM	Barclays Gems Index
+JFP	Nuveen Tax-Advantaged Floating Rate Fund
+JFT	130/30 Large Cap Index Etn
+JGBD	
+JGBL	Powershares Db Japanese Govt Bo
+JGBS	
+JGBT	Powershares Db 3X Japanese Govt
+JJA	DJ-UBS Agriculture Tr Etn
+JJC	DJ-UBS Copper Tr Etn
+JJE	DJ-UBS Energy Tr Etn
+JJG	DJ-UBS Grains Tr Etn
+JJM	DJ-UBS Ind Metals Tr Etn
+JJN	DJ-UBS Nickel Tr Etn
+JJP	DJ-UBS Prec Metals Tr Etn
+JJS	DJ-UBS Softs Tr Etn
+JJT	DJ-UBS Tin Tr Etn
+JJU	DJ-UBS Aluminum Tr Etn
+JKD	Morningstar Large Core
+JKE	Morningstar Large Growth
+JKF	Morningstar L V I
+JKG	Morningstar Mid Core
+JKH	Morningstar Mid Growth
+JKI	Morningstar Mid Value
+JKJ	Morningstar Small Core
+JKK	Morningstar Small Growth
+JKL	Morningstar Small Value
+JNK	SPDR High Yield Bond ETF
+JO	DJ-UBS Coffee Tr Etn
+JOB	General Employment Enterprises
+JPP	SPDR Russell/Nomura Prime Japan ETF
+JPX	Ultrashort Msci Pacific Ex-Japan
+JRS	Nuveen Real Estate Fund
+JSC	SPDR Russell/Nomura Small Cap Japan
+JXI	S&P Global Utilities Sector
+JYF	Dreyfus Japanese Yen Fund
+JYN	Jpy/Usd Exchange Rate Etn
+KBE	SPDR Kbw Bank ETF
+KBWB	
+KBWD	Kbw High Dividend Yield Financial ETF
+KBWP	Kbw Property & Casualty Insurance ETF
+KBWR	
+KBWX	Kbw International Financial ETF
+KBWY	Kbw Premium Yield Equity Reit ETF
+KBX	Kimber Resources Inc
+KCE	SPDR Kbw Capital Markets ETF
+KGN	Keegan Resources Inc
+KIE	SPDR Kbw Insurance ETF
+KLD	Kld Select Social
+KME	SPDR Kbw Mortgage Finance ETF
+KNOW	
+KOL	Coal ETF
+KOLD	
+KRE	SPDR Kbw Regional Banking ETF
+KROO	IQ Australia Small Cap ETF
+KRS	Short Kbw Regional Banking
+KRU	Ultra Kbw Regional Banking
+KUN	China Shenghuo Pharmaceutical
+KWT	ETF Trust
+KXI	S&P Global Consumer Staples Sector
+KXM	Kobex Minerals Inc.
+LAG	SPDR Barclays Aggregate Bond ETF
+LAQ	Latin America Equity Fund
+LATM	Latin America Small-Cap Index ETF
+LBJ	Direxion Latin America 3X Bull Shares
+LBND	DB 3X Long 25+ Year T-Bond
+LBTA	Russell 1000 Low Beta ETF
+LBY	Libbey
+LCI	Lannett Co Inc
+LD	DJ-UBS Lead Tr Etn
+LDX	Bank Of America Corp.
+LEDD	Ipath Pure Beta Lead Etn
+LEI	Lucas Energy
+LEMB	
+LGEM	Egshares Basic Materials Gems
+LGL	Lgl Group
+LHB	Direxion Latin America Bear 3X Shares
+LIT	Global X Lithium ETF
+LMZ	Bank Of America Corp.
+LNG	Cheniere Energy
+LODE	Comstock Mining Inc
+LON	Loncor Resources Inc
+LOV	Spark Networks Plc
+LPAL	
+LPH	Longwei Petroleum Investment Holding
+LPLT	
+LQD	Tm Corporate Bond Fund
+LSC	Hsbc Usa
+LSG	Lake Shore Gold Corp
+LSKY	
+LSTK	Ipath Pure Beta Livestock Etn
+LTL	Ultra Telecommunications Proshares
+LTPZ	Pimco 15+ Year U.S. Tips
+LTS	Ladenburg Thalmann Financial Inc
+LVL	Global Dividend Opportunities ETF
+LVOL	Russell 1000 Low Volatility ETF
+LWC	SPDR Long Term ETF
+LWPE	Russell Low P E  ETF
+MAB	Eaton Vance Massachusetts Muni Bond
+MATH	Meidell Tactical Advantage ETF
+MATL	Direxion Daily Basic Materials
+MATS	Direxion Daily Basic Materials
+MBA	Cibt Education Group Inc.
+MBB	Barclays Mbs Bond Fund
+MBC	3% Min. Coupon Ppn On Russell 2000
+MBF	Min Coupon On S&P Midcap 400 Index
+MBG	SPDR Mortgage Backed Bond ETF
+MBL	Bank Of America Corp.
+MCF	Contango Oil & Gas Company
+MCHI	Ishares Msci China Index Fund
+MCRO	IQ Hedge Macro Tracker ETF
+MCZ	Mad Catz Interactive Inc
+MDD	S&P Intl Mid Cap ETF
+MDG.W	Medgenics Inc
+MDGN	Medgenics Inc. Common Stock
+MDM	Mountain Province Diamonds Inc.
+MDW	Midway Gold Corp.
+MDY	Midcap Spdr
+MDYG	S&P 400 Mid Cap Growth ETF
+MDYV	S&P 400 Mid Cap Value ETF
+MEA	Metalico Inc
+MES	Gulf States Index ETF
+MEXS	Global X Mexico Small Cap ETF
+MFN	Minefinders Corp. Ltd
+MFSA	Short Enhanced Msci Eafe Index
+MGC	Vg Mega Cap 300 ETF
+MGH	Minco Gold Corp.
+MGJ	Bank Of America Corp.
+MGK	Vg Mega Cap 300 Growth
+MGN	Mines Management
+MGT	Mgt Capital Investments Inc
+MGV	Vg Mega Cap 300 Value
+MHC	2% Minimum Coupon On Spx
+MHE	Massachusetts Health And Education Tax-Exempt Tr
+MHH	Mastech Holdings Inc
+MHM	Bank Of America Corp.
+MHR-C	Magnum Hunter Resour
+MHR-D	Magnum Hunter Resources Corpora
+MHW	Bank Of America Corp.
+MINT	Pimco Enhanced Short Maturity Strategy Fund
+MIW	Eaton Vance Michigan Muni Bond Fund
+MJC	3% Min Coupon On Russell 2000 Index
+MKF	Bank Of America Corp.
+MKN	3% Min Coupon Principal DJ-Aig Commodity Excess
+MKZ	Min Coupon Ppn On Dow Jones-UBS Commodity Index
+MLA	Bank Of America Corp.
+MLN	Long Muni Index ETF
+MLPG	Alerian Natural Gas Mlp Etn
+MLPI	Alerian Mlp Infrastructure Etn
+MLPL	Double Long Alerian Mlp Infrast Etn
+MLPN	Credit Suisse Cushing 30 Mlp Index Etn
+MLPS	Short Alerian Mlp Infrast Tr
+MLPW	Ag Wells Fargo Mlp
+MLPY	Morgan Stanley Cushing High Income Index Etn
+MMF	Bank Of America Corp.
+MMV	Eaton Vance Massachusetts Muni Income Trust
+MNA	IQ Merger Arbitrage ETF
+MOC	Command Security Corp.
+MOL	2% Min Coupon Based On Gold
+MOO	Agribusiness ETF
+MORT	Market Vectors Mortgage Reit In
+MOU	3% Principal Protected Notes Based On Russell 20
+MPE	Bank Of America Corp.
+MQC	Bank Of America Corp.
+MSC	Bank Of America Corp.
+MSL	Midsouth Bancorp
+MSN	Emerson Radio Corp.
+MSS	Merrill Lynch & Co.
+MTK	SPDR Morgan Stanley Technology [Etf]
+MTY	3% Min Coupon Ppm On Price Of Gold
+MUAA	2012 S&P Amt-Free Muni Series
+MUAB	2013 S&P Amt-Free Muni Series
+MUAC	2014 S&P Amt-Free Muni Series
+MUAD	2015 S&P Amt-Free Muni Series
+MUAE	2016 S&P Amt-Free Muni Series
+MUAF	2017 S&P Amt-Free Muni Series
+MUB	S&P National Muni Bond Fund
+MUK	3% Min Coupon Ppn On Spx
+MUNI	Pimco Intermediate Muni Bond Strategy Fund
+MVF	Munivest Fund
+MVG	Mag Silver Corp.
+MVV	Ultra Midcap 400
+MWJ	Direxion Mid Cap Bull 3X Shares
+MWN	Direxion Mid Cap Bear 3X Shares
+MXA	Minnesota Muni Income Portfolio Inc.
+MXC	Mexco Energy Corp.
+MXH	Merrill Factor Model
+MXI	S&P Global Materials Sector
+MXN	First American Minnesota Muni Ii
+MYP	3% Min Coupon Principal Protected Notes Based On
+MYY	Short Midcap 400
+MZA	Muniyield Arizona Fund
+MZZ	Ultrashort Midcap 400
+NAGS	Teucrium Natural Gas Etv
+NAK	Northern Dynasty Minerals
+NASI	Pax Msci North America Esg Index ETF
+NAVB	Neoprobe Corp.
+NBH	Neuberger Berman Intermediate Fund Inc.
+NBJ	Nuveen Ohio Divadv Fund 2
+NBJ-A	Nuveen Ohio Divd Adv Mun Fd 2
+NBO	Neuberger Berman New York Intermediate Fund Inc.
+NBS	Neostem
+NBS.W	Neostem
+NBW	Neuberger Berman California Intermediate Fund In
+NBY	Novabay Pharmaceuticals
+NCB	Nuveen California Muni Value Fund 2
+NCU	Nuveen California Premium Fund
+NEA	Nuveen Insured Tax-Free Advantage Fund
+NEN	New England Realty Associates Limited Partnershi
+NEP	China North East Petroleum Holdings
+NEWN	New Energy Systems Group.
+NFC	Nuveen Connecticut Divadv Fund
+NFM	Nuveen Maryland Divadv Fund
+NFO	Guggenheim Insider ETF
+NFZ	Nuveen Arizona Divadv Fund
+NFZ-C	Nuveen Arizona Dividend Advanta
+NG	Novagold Resources Inc New
+NGB	Nuveen Virginia Divadv Fund
+NGD	New Gold Inc.
+NGK	Nuveen Connecticut Divadv Fund 2
+NGO	Nuveen Connecticut Divadv Fund 3
+NGX	Nuveen Insured Massachusetts Tax-Free
+NHC	National Healthcare Corp.
+NHC-A	National Hlthcare Sr
+NHS	Neuberger Berman High Yield Strategies
+NIB	DJ-UBS Cocoa Tr Etn
+NII	Nuveen North Carolina Divadv Fund 3
+NINI	Ipath Pure Beta Nickel Etn
+NJV	Nuveen New Jersey Muni Value Fund
+NKG	Nuveen Georgia Divadv Fund 2
+NKL	Nuveen Insured California Divadv Fund
+NKO	Nuveen Insured New York Divadv Fund
+NKR	Nuveen Arizona Divadv Fund 2
+NKX	Nuveen Insured California Tax-Free
+NKY	Maxis Nikkei 225 Index Fund ETF
+NLP	Nts Realty Holdings Limited Partnership
+NLR	Uranium & Nuclear Energy ETF
+NMB	Nuveen Massachusetts Divadv Fund
+NMB-C	Nuveen Massachusetts Dividend A
+NMZ	Nuveen Muni High Income Opportunity
+NNB	Nuveen Virginia Divadv Fund 2
+NNO	Nuveen North Carolina Divadv Fund 2
+NOG	Northern Oil And Gas
+NOM	Nuveen Missouri Premium Fund
+NOMO	
+NORW	Global X Ftse Norway 30 ETF
+NPG	Nuveen Georgia Premium Fund
+NPN	Nuveen Pennsylvania Muni Value Fund
+NRB	Nuveen North Carolina Divadv Fund
+NRK	Nuveen Insured New York Tax-Free
+NRO	Neuberger Berman Real Estate Securities
+NSU	Nevsun Resources Ltd
+NTN	Ntn Buzztime
+NTS	
+NUGT	Direxion Daily Gold Miners Bull 3X Shares
+NUJ	Nuveen New Jersey Divadv Fund 2
+NVG	Nuveen Insured Divadv Fund
+NVJ	Nuveen Ohio Divadv Fund 3
+NVJ-A	Nuveen Ohio Dividend Advantage
+NVX	Nuveen California Divadv Fund 2
+NVY	Nuveen Pennsylvania Divadv Fund 2
+NWI	Nuveen Maryland Divadv Fund 3
+NXE	Nuveen Arizona Divadv Fund 3
+NXI	Nuveen Ohio Divadv Fund
+NXI-D	Nuveen Ohio Dividend Advantage
+NXJ	Nuveen New Jersey Divadv Fund
+NXK	Nuveen New York Divadv Fund 2
+NXM	Nuveen Pennsylvania Divadv Fund
+NXZ	Nuveen Divadv Fund 2
+NY	NYSE Composite
+NYC	NYSE 100 ETF
+NYF	S&P Ny Muni
+NYH	Eaton Vance New York Muni Bond Fund Ii
+NYV	Nuveen New York Muni Value Fund 2
+NZF	Nuveen Divadv Fund 3
+NZH	Nuveen California Divadv Fund 3
+NZR	Nuveen Maryland Divadv Fund 2
+NZW	Nuveen Michigan Divadv Fund
+NZW-C	Nuveen Michigan Dividend Advant
+NZX	Nuveen Georgia Divadv Fund
+NZX-C	Nuveen Georgia Dividend Advanta
+OBT	Orbital Corp Ltd
+OEF	S&P 100 ETF
+OESX	Orion Energy Systems
+OFF	
+OFI	Overhill Farms
+OGEM	Egshares Energy Gems ETF
+OIH	Market Vectors Oil Services ETF
+OIL	S&P GSCI Crude Oil Tr Etn
+OILZ	Oil Futures Contango Etn Due Ju
+OLEM	Ipath Pure Beta Crude Oil Etn
+OLO	DB Crude Oil Long Etn
+ONEF	One Fund ETF
+ONG	Ipath Pure Beta Energy Etn
+ONN	
+ONP	Orient Paper
+OTP	Guggenheim Ocean Tomo Patent ETF
+OTR	Guggenheim Ocean Tomo Growth ETF
+PAF	FTSE Rafi Asia Pacific Ex-Japan
+PAL	North American Palladium
+PALL	ETFs Physical Palladium Shares
+PAO	Riverfront Tactical Balanced Growth
+PBD	Global Clean Energy Portfolio
+PBE	Dynamic Biotech &Genome
+PBJ	Dynamic Food & Beverage
+PBM	Pacific Booker Minerals Inc
+PBP	S&P 500 Buywrite Portfolio
+PBS	Dynamic Media
+PBTH	Prolor Biotech
+PBW	Wilderhill Clean Energy Portfolio
+PCA	Riverfront Tactical Growth & Income
+PCC	Pmc Commercial Trust
+PCE	Pacific Office Properties Trust Inc
+PCEF	Cef Income Composite Portfolio
+PCG-A	Pacific Gas El 6.00
+PCG-B	Pacific Gas El 5.50
+PCG-C	Pacific Gas El 5.00
+PCG-D	Pacific Gas El 5.00
+PCG-E	Pacific Gas El 5.00
+PCG-G	Pacific Gas El 4.80
+PCG-H	Pacific Gas El 4.50
+PCG-I	Pacific Gas El 4.36
+PCY	Emerging Markets Sovereign Debt
+PCYG	Park City Group
+PDC	Pioneer Drilling Co
+PDN	FTSE Rafi Developed Markets Ex-U.S.
+PDO	Pyramid Oil Co
+PDP	Dwa Technical Leaders Portfolio
+PEJ	Dynamic Leisure & Entertainment
+PEK	China ETF
+PEY	High Yield Equity Dividend Achievers
+PEZ	Dynamic Consumer Discretionary
+PFA	Dynamic Developed International
+PFF	S&P US Preferred Stock Fund
+PFI	Dynamic Financial
+PFIG	
+PFM	Dividend Achievers
+PGD	Barclays Asian & Gulf Currency Reval
+PGF	Financial Preferred
+PGJ	Golden Dragon Halter Usx China
+PGM	DJ-UBS Platinum Tr Etn
+PGX	Preferred Portfolio
+PHB	High Yield Corporate Bond
+PHF	Pacholder High Yield Fund
+PHO	Water Resource Port
+PHYS	Sprott Physical Gold Trust Etv
+PIC	Dynamic Insurance
+PICB	International Portfolio
+PICK	
+PID	Intl Dividend Achievers
+PIE	Dwa Emerging Market Technical
+PIN	India Portfolio
+PIO	Global Water Portfolio
+PIP	Pharmathene Inc
+PIQ	Dynamic Magniquant
+PIV	S&P 500 High Quality Portfolio
+PIZ	Dwa Developed Market Technical
+PJB	Dynamic Banking
+PJP	Dynamic Pharmaceuticals
+PKB	Dynamic Build & Construction
+PKN	Global Nuclear Portfolio
+PKW	Buyback Achievers
+PLG	Platinum Group Metals Ltd
+PLK	Active Low Duration Fund
+PLM	Polymet Mining
+PLND	Poland ETF
+PLW	1-30 Treasury Ladder Portfolio
+PLX	Protalix Biotherapeutics
+PMA	Active Mega Cap Fund
+PMR	Dynamic Retail
+PPA	Aerospace & Defense
+PPH	Market Vectors Pharmaceutical E
+PPLT	ETFs Physical Platinum Shares
+PPW.P	Pacificorp 5 Pr
+PPY	Ms 2.8 Mrk Participation Sec Linked To DJ High 2
+PRB	Pre-Refunded Muni Index ETF
+PRF	FTSE Rafi US 1000 Portfolio
+PRK	Park National Corp.
+PRN	PowerShares Exchange-Traded Fund Trust
+PSI	Dynamic Semiconductors
+PSJ	Dynamic Software
+PSK	SPDR Wells Fargo Preferred Stock ETF
+PSL	Dynamic Consumer Staples
+PSLV	Sprott Physical Silver Trust Etv
+PSP	Listed Private Equity
+PSQ	Short QQQ
+PSR	Active U.S. Real Estate Fund
+PST	Ultrashort 7-10 Year Treasury
+PTD	Cmci Short Platinum Er Etn
+PTF	Dynamic Technology
+PTH	Dynamic Heathcare
+PTM	Cmci Long Platinum Tr Etn
+PTN	Palatin Technologies
+PTO	Ibbotson Alternative Completion
+PTX	Golf Trust Of America
+PUI	Dynamic Utilities
+PUW	Wilderhill Progressive Energy
+PVI	Vrdo Tax Free Weekly Portfolio
+PW	Pittsburgh & West Virginia Railroad
+PWB	Dynamic Largecap Growth
+PWC	Power Shares Xtf Dynamic Market
+PWO	Power Shares Xtf Dynamic Otc
+PWV	Dynamic Largecap Value
+PWZ	Insured Ca Muni Bond Portfolio
+PXE	Dynamic Energy E&P
+PXF	FTSE Rafi Developed Markets Ex-U.S.
+PXH	FTSE Rafi Emerging Markets Portfolio
+PXI	Dynamic Energy
+PXJ	Dynamic Oil Services
+PXLC	Powershares Fundamental Pure Large Core
+PXLG	Powershares Fundamental Pure La
+PXLV	Powershares Fundamental Pure La
+PXMC	Powershares Fundamental Pure Mid Core
+PXMG	Powershares Fundamental Pure Mid Growth
+PXMV	Powershares Fundamental Pure Mid Value
+PXN	Lux Nanotech Portfolio
+PXQ	Dynamic Networking
+PXR	Global Emerging Markets Infrastructure
+PXSC	Powershares ETF Dynamic Small Cap Portfolio
+PXSG	Powershares Fundamental Pure Small Growth
+PXSV	Powershares Fundamental Pure Small Value
+PYH	Morningstar Stockinvestor Core Portfolio
+PYZ	Dynamic Basic Materials
+PZA	Insured National Muni Bond Portfolio
+PZD	Cleantech Portfolio
+PZG	Paramount Gold And Silver
+PZI	Zacks Micro Cap
+PZT	Insured Ny Muni Bond Portfolio
+QAI	IQ Hedge Multiiq Hedge Tracker ETF
+QBC	Cubic Energy Inc
+QGEM	Egshares Technology Gems ETF
+QID	Ultrashort QQQ Proshares
+QLD	Ultra QQQ
+QLT	
+QMM	Quaterra Resources Inc
+QPSA	Quepasa Corp.
+QRM	Quest Rare Minerals Ltd
+RALS	Proshares Rafi Long Short ETF
+RBL	S&P Russia ETF
+RBY	Rubicon Minerals Corp
+RCD	S&P Equal Weight Consumer Discretionary
+RCG	Renaissance Capital Growth & Income Fund III
+REE	Rare Element Res Ltd
+REK	Short Real Estate
+REM	FTSE Nareit Mortgage Reits
+REMX	Rare Earth Strategic Metals ETF
+RETL	Direxion Daily Retail Bull 3X Shares
+RETS	Direxion Daily Retail Bear 3X Shares
+REW	Ultrashort Technology
+REZ	FTSE Nareit Residential
+RFA	Blackrock Florida Muni Trust Inc.
+RFG	S&P Midcap 400 Pure Growth
+RFV	S&P Midcap 400 Pure Value
+RGI	S&P Equal Weight Industrials ETF
+RHS	S&P Equal Weight Consumer Staples ETF
+RIC	Richmont Mines
+RIF	Rmr Real Estate Income Fund
+RING	
+RJA	Rogers Intl Comm Agri Etn
+RJI	Rogers Intl Commodity Etn
+RJN	Rogers Intl Comm Engy Etn
+RJZ	Rogers Intl Comm Metal Etn
+RKH	Market Vectors Bank And Brokera
+RLGT	
+RMB	
+RNJ	Blackrock New Jersey Muni Trust Inc.
+RNN	Rexahn Pharmaceuticals
+RNY	Blackrock New York Muni Trust Inc.
+ROI	Largecap Growth Fund
+ROM	Ultra Technology
+ROOF	IQ US Real Estate Small Cap ETF
+ROSA	Short Extended Russell 1000 Tr Index
+ROX	Castle Brands
+RPG	S&P 500 Pure Growth ETF
+RPI	Roberts Realty Investors
+RPV	S&P 500 Pure Value ETF
+RPX	Rp Growth ETF
+RRF	Wisdomtree Global Real Return F
+RSP	S&P Equal Weight ETF
+RSU	2X S&P 500 ETF
+RSW	Inverse 2X S&P 500 ETF
+RSX	Tr Russia ETF
+RSXJ	Market Vectors Russia Small Ca
+RSY	Merrill Lynch & Co.
+RTH	Market Vectors Retail ETF
+RTK	Rentech
+RTL	FTSE Nareit Retail
+RTLA	Short Extended Russell 1000 Tr Index
+RTM	S&P Equal Weight Materials ETF
+RTR	Revenueshares Adr
+RTSA	Short Extended Russell 2000 Tr Index
+RUSL	Direxion Daily Russia Bull 3X S
+RUSS	Direxion Daily Russia Bear 3X S
+RVM	Revett Minerals Inc
+RVP	Retractable Technologies
+RVR	White River Capital
+RWC	Relm Wireless Corp.
+RWG	Rp Focused Large Cap Growth ETF
+RWJ	Revenueshares Small Cap
+RWK	Revenueshares Mid Cap
+RWL	Revenueshares Large Cap
+RWM	Short Russell 2000
+RWO	SPDR DJ Wilshire Global Real Estate ETF
+RWR	SPDR Dow Jones Reit ETF
+RWV	Revenueshares Navallier Overall A-100
+RWW	Revenueshares Financials Sector
+RWX	SPDR DJ Wilshire Intl Real Estate
+RXD	Ultrashort Health Care
+RXI	S&P Global Consumer Discretionary Sector
+RXL	Ultra Health Care
+RYE	S&P Equal Weight Energy ETF
+RYF	S&P Equal Weight Financial ETF
+RYH	S&P Equal Weight Health Care ETF
+RYJ	Guggenheim Raymond James Sb-1 Equity Fund
+RYT	S&P Equal Weight Technology ETF
+RYU	S&P Equal Weight Utilities ETF
+RZG	S&P Sc 600 Pure Growth
+RZV	S&P Sc 600 Pure Value
+SA	Seabridge Gold
+SAA	Ultra Smallcap600
+SAGG	Direxion Daily Total Bond Marke
+SAL	Salisbury Bancorp
+SARA	Saratoga Res Inc
+SBA	Bank Of America Corp.
+SBB	Short Smallcap600
+SBI	Western Asset Intermediate Fund Inc
+SBM	Short Basic Materials
+SBND	DB 3X Short 25+ Year T-Bond
+SCC	Ultrashort Consumer Services
+SCE-B	South Ca Edis 408 Pf
+SCE-C	South Ca Edis 424 Pf
+SCE-D	South Ca Edis 431 Pf
+SCE-E	South Ca Edis 478 Pf
+SCHA	Schwab U.S. Small-Cap ETF
+SCHB	Schwab U.S. Broad Market ETF
+SCHC	Schwab International Small-Cap Equity ETF
+SCHD	
+SCHE	Schwab Emerging Markets Equity ETF
+SCHF	Schwab International Equity ETF
+SCHG	Schwab U.S. Large-Cap Growth ETF
+SCHH	Schwab U.S. Reit ETF
+SCHM	Schwab U.S. Mid Cap ETF
+SCHO	Schwab Short-Term U.S. Treasury ETF
+SCHP	Schwab U.S. Tips ETF
+SCHR	Schwab Intermediate-Term U.S. Treasury ETF
+SCHV	Schwab U.S. Large-Cap Value ETF
+SCHX	Schwab U.S. Large-Cap ETF
+SCHZ	Schwab US Aggregate Bond ETF
+SCIF	India Small-Cap Index ETF
+SCIN	Emerging Indxx India Small Cap
+SCJ	MSCI Japan Sm Cap
+SCO	Ultrashort DJ-Aig Crude Oil
+SCPB	SPDR Short Term ETF
+SCT	Bank Of America Corp.
+SCZ	MSCI Eafe Small Cap
+SDA	Bank Of America Corp.
+SDD	Ultrashort Smallcap600
+SDIV	Global X Superdividend ETF
+SDK	Ultrashort Russell Midcap Growth
+SDO-A	San Diego 6 E 5 Pfd
+SDO-B	San Diego 6 E 450 Pe
+SDO-C	San Diego 6 E 440 Pf
+SDO-H	Sandiego G & E Prf
+SDOW	Ultrapro Short Dow 30
+SDP	Ultrashort Utilities
+SDS	Ultrashort S&P 500 Proshares
+SDY	S&P Dividend ETF
+SEA	Guggenheim Shipping ETF
+SEB	Seaboard Corp.
+SED	Sun Entertainment Holding Corporation
+SEF	Short Financials
+SFK	Ultrashort Russell 1000 Growth
+SFLA	Long Extended S&P 500 Tr Index
+SFSA	Short Extended S&P 500 Tr Index
+SGA	Saga Communications
+SGAR	Ipath Pure Beta Sugar Etn
+SGB	Southwest Georgia Financial Corp.
+SGG	DOW Jones-UBS Sugar Tr Etn
+SGOL	ETFs Physical Swiss Gold Shares
+SGS	Stream Global Services Inc
+SH	Short S&P500
+SHBT	Russell 2000 High Beta ETF
+SHM	Barclays S/T Muni Bd
+SHMO	Russell 2000 High Momentum ETF
+SHN	Bank Of America Corp.
+SHV	Barclays Short Treasury Bond Fund
+SHVY	Russell 2000 High Volatility ETF
+SHY	Barclays 1-3 Year Treasury Bond Fund
+SHZ	China Shen Zhou Mining & Resources
+SICK	Direxion Daily Healthcare Bear
+SIF	Sifco Industries
+SIHI	Sinohub Inc
+SIJ	Ultrashort Industrials
+SIL	Global X Silver Miners ETF
+SILU	Sprott Resource Lending
+SIM	Grupo Simec S.A. De C.V.
+SIVR	ETFs Silver Trust
+SIZ	
+SJB	Short High Yield
+SJF	Ultrashort Russell 1000 Value
+SJH	Ultrashort Russell 2000 Value
+SJL	Ultrashort Russell Midcap Value
+SKF	Ultrashort Financials
+SKK	Ultrashort Russell 2000 Growth
+SKOR	IQ South Korea Small Cap ETF
+SLBT	Russell 2000 Low Beta ETF
+SLI	Sl Industries
+SLV	Silver Trust
+SLVP	
+SLVY	Russell 2000 Low Volatility ETF
+SLX	Steel Index ETF Fund
+SLY	S&P 600 Small Cap ETF
+SLYG	S&P 600 Small Cap Growth ETF
+SLYV	S&P 600 Small Cap Value ETF
+SMB	Short Muni Index ETF
+SMDD	Ultrapro Short Midcap 400
+SMH	Market Vectors Semiconductor Et
+SMK	Ultrashort Msci Mexico
+SMMU	Short Term Muni Bond Strategy Fund
+SMN	Ultrashort Basic Materials
+SMU	Bank Of America Corp.
+SNK	Bank Of America Corp.
+SNT	Senesco Technologies Inc
+SOIL	Global X Fertilizer Potash ETF
+SOQ	Sonde Resources Corp
+SOS	Bank Of America Corp.
+SOXL	Direxion Semiconductor Bull 3X Shares
+SOXS	Direxion Semiconductor Bear 3X Shares
+SOYB	
+SPGH	S&P 500 Gold Hedged Etn
+SPHB	Powershares S&P 500 High Beta P
+SPLV	Powershares S&P 500 Low Volatil
+SPXU	Ultrapro Short S&P500
+SPY	SPDR S&P 500 ETF
+SPYG	S&P 500 Growth ETF
+SPYV	S&P 500 Value ETF
+SRS	Ultrashort Real Estate
+SRTY	Ultrapro Short Russell 2000
+SSAM	
+SSDL	
+SSE	Southern Connecticut Bancorp Inc
+SSG	Ultrashort Semiconductors
+SSN	Samson Oil & Gas Limited
+SSO	Ultra S&P 500 Proshares
+SSY	Sunlink Health Systems
+STIP	Barclays 0-5 Year Tips Bond Fund
+STPP	US Treasury Steepener Etn
+STPZ	Pimco 1-5 Year U.S. Tips
+STS	Supreme Industries
+SUB	S&P Short Trm National Muni Bond
+SVBL	Silver Bull Resources Inc
+SVT	Servotronics
+SVW	Bank Of America Corp.
+SVXY	Proshares Short VIX Short Term
+SYRG	Synergy Resources Cp
+SZE	Bank Of America Corp.
+SZK	Ultrashort Consumer Goods
+SZO	DB Crude Oil Short Etn
+SZR	Dreyfus South African Rand Fund
+SZX	Ms Sel10 Idx Srns
+TA	Travelcenters Of America Llc
+TAN	Guggenheim Solar ETF
+TAO	Guggenheim China Real Estate ETF
+TAS	Tasman Metals
+TAT	Transatlantic Petroleum Ltd
+TBAR	Rbs Gold Trendpilot Exchange Tr
+TBF	Short 20+ Year Treasury
+TBT	Ultrashort 20+ Year Treasury
+TBX	Short 7-10 Years
+TBZ	Ultra Short 3 7 Year T
+TCX	Tucows Inc
+TDD	Db-X 2010 Target Date Fund
+TDH	Db-X 2020 Target Date Fund
+TDN	Db-X 2030 Target Date Fund
+TDTF	
+TDTT	
+TDV	Db-X 2040 Target Date Fund
+TDX	Db-X In-Target Date Fund
+TENZ	Pimco 7-15 Year U.S. Treasury
+TF	Thai Capital Fund Inc
+TFI	Barclays Muni Bond
+TGB	Taseko Mines Limited
+TGC	Tengasco
+TGD	Timmins Gold Corp
+TGEM	Egshares Telecommunication Gems ETF
+TGR	S&P Target Date Retirement Inc
+THD	MSCI Thailand
+THM	International Tower Hill Mines Ltd
+TIK	Tel-Instrument Electronics
+TILT	
+TIP	Barclays Tips Bond Fund
+TIPZ	Pimco Broad U.S. Tips
+TIS	Orchids Paper Products Company
+TIV	Tri-Valley Corp.
+TLB.W	Talbots
+TLH	Barclays 10-20 Year Treasury Bond Fund
+TLL	Ultrashort Telecommunications
+TLO	Barclays Long Term Treasury
+TLR	Timberline Resources Corp.
+TLT	Barclays 20+ Year Treasury Bond Fund
+TMF	Direxion 30-Yr Treasury Bull 3X Shrs
+TMP	Tompkinstrustco
+TMV	Direxion 30-Yr Treasury Bear 3X Shrs
+TMW	Fortune 500 Index Tracking Stock
+TNA	Direxion Small Cap Bull 3X Shares
+TNDQ	
+TOF	Tofutti Brands Inc.
+TOK	MSCI Kokusai
+TOTS	Direxion Daily Total Market Bea
+TPI	Tianyin Pharmaceutical Co.
+TPLM	Triangle Petroleum Corp.
+TPS	Ultrashort Tips
+TRND	Royal Bank Scotland Group Plc
+TRNM	Royal Bank Scotland Group Plc
+TRSY	Pimco Broad U.S. Treasury
+TRT	Trio-Tech International
+TRX	Tanzanian Royalty Exploration Corp.
+TSH	Teche Holding Company
+TSXV	Global X S&P Tsx Venture 30 Can
+TTFS	
+TTTM	T3 Motion Inc
+TUR	MSCI Turkey Investable Market
+TUZ	Pimco 1-3 Year US Treasury
+TVIX	Velocityshares Daily 2X VIX Short-Term Etn
+TVIZ	Velocityshares Daily 2X VIX Medium-Term Etn
+TWM	Ultrashort Russell 2000
+TWO.W	Two Harbors Investment Corp
+TWQ	Ultrashort Russell 3000
+TWTI	
+TYBS	Direxion Daily 20 Year Treasury
+TYD	Direxion 10-Yr Treasury Bull 3X Shrs
+TYH	Direxion Technology Bull 3X Shares
+TYNS	Direxion Daily 7 10 Year Treasu
+TYO	Direxion 10-Yr Treasury Bear 3X Shrs
+TYP	Direxion Technology Bear 3X Shares
+TZA	Direxion Small Cap Bear 3X Shares
+TZD	S&P Target Date 2010
+TZE	Target Date 2015
+TZG	S&P Target Date 2020 ETF
+TZI	S&P Target Date 2025 ETF
+TZL	S&P Target Date 2030
+TZO	S&P Target Date 2035
+TZV	S&P Target Date 2040
+TZW	Ishares S&P Target Date 2045 In
+TZY	Ishares S&P Target Date 2050 In
+UAG	Cmci Agriculture Tr Etn
+UBC	Cmci Livestock Tr Etn
+UBG	Cmci Gold Tr Etn
+UBM	Cmci Industrial Metals Tr Etn
+UBN	Cmci Energy Tr Etn
+UBR	Ultra Msci Brazil
+UBT	Ultra 20+ Year Treasury
+UCC	Ultra Consumer Services
+UCD	Ultra DJ-Aig Commodity
+UCI	Healthmarkets Inc
+UCO	Ultra DJ-Aig Crude Oil
+UDN	DB Usd Index Bearish
+UDNT	Powershares Db 3X Short US Doll
+UDOW	Ultrapro Dow 30
+UEC	Uranium Energy
+UGA	US Gasoline Fund Lp
+UGE	Ultra Consumer Goods
+UGEM	Egshares Utilities Gems ETF
+UGL	Ultra Gold
+UGLD	Velocityshares 3X Long Gold Etn
+UHN	US Heating Oil Fund Lp
+UJB	Proshares Ultra High Yld ETF
+UKF	Ultra Russell 1000 Growth
+UKK	Ultra Russell 2000 Growth
+UKW	Ultra Russell Midcap Growth
+ULE	Ultra Euro
+ULU	Uluru Inc.
+UMDD	Ultrapro Midcap 400
+UMH	Umh Properties
+UMH-A	Umh Properties Inc. 8.25% Seri
+UMX	Ultra Msci Mexico Investable Market
+UNG	US Natural Gas Fund Lp
+UNL	US 12 Month Natural Gas Fund
+UPG	Universal Power Group Inc
+UPRO	Ultrapro S&P 500
+UPV	Ultra Msci Europe
+UPW	Ultra Utilities
+UQM	Uqm Technologies Inc
+URA	Global X Uranium ETF
+URE	Ultra Real Estate ETF
+URG	Ur Energy Inc
+URR	Vectors Double Long Euro Etn
+URTY	Ultrapro Russell 2000
+URZ	Uranerz Energy Corp.
+USCI	US Commodity Index Fund Etv
+USD	Ultra Semiconductors
+USL	US 12 Month Oil
+USLV	Velocityshares 3X Long Silver E
+USMV	
+USO	US Oil Fund Lp
+UST	Ultra 7-10 Year Treasury
+USV	Cmci Silver Tr Etn
+UTG	Reaves Utility
+UUP	DB Usd Index Bullish
+UUPT	Powershares Db 3X Long US Dolla
+UUU	Universal Security Instruments
+UVE	Universal Insurance Holdings Inc
+UVG	Ultra Russell 1000 Value
+UVT	Ultra Russell 2000 Value
+UVU	Ultra Russell Midcap Value
+UVXY	Proshares Trust Ultra VIX Short
+UWC	Ultra Russell 3000
+UWM	Ultra Russell 2000
+UWN	Nevada Gold & Casinos
+UXI	Ultra Industrials
+UXJ	Ultra Msci Pacific Ex-Japan
+UYG	Ultra Financials ETF
+UYM	Ultra Basic Materials
+VAW	Vg Materials ETF
+VB	Vg Small-Cap ETF
+VBK	Vg Small-Cap Growth ETF
+VBR	Vg Small-Cap Value ETF
+VCF	Delaware Colorado Muni Income Fund Inc
+VCR	Vg Consumer Discretionary ETF
+VDC	Vg Consumer Staples ETF
+VDE	Vg Energy ETF
+VEA	MSCI Eafe
+VEGI	
+VEU	Vg Ftse All World Ex US ETF
+VFH	Vg Financials ETF
+VFL	Delaware Florida Insured Muni
+VGEM	Egshares Consumer Services Gems ETF
+VGK	MSCI European
+VGT	Vg Information Technology ETF
+VGZ	Vista Gold Corp.
+VHC	Virnetx Holding Corp
+VHT	Vg Health Care ETF
+VIG	Vg Dividend Appreciation ETF
+VII	Vicon Industries Inc
+VIIX	Velocityshares Daily Long VIX Short-Term Etn
+VIIZ	Velocityshares Daily Long VIX Medium-Term Etn
+VIOG	Vg S&P Small-Cap 600 Growth ETF
+VIOO	Vg S&P Small-Cap 600 ETF
+VIOV	Vg S&P Small-Cap 600 Value ETF
+VIS	Vg Industrials ETF
+VIXM	ViX Mid-Term Futures ETF
+VIXY	ViX Short-Term Futures ETF
+VKI	Invesco Advantage Muni Income Trust Ii
+VKL	Invesco Select Sector Muni Trust
+VMM	Delaware Minnesota Muni Ii
+VMV	Invesco Massachusetts Value Muni
+VNM	Vietnam ETF
+VNQ	Vg Reit ETF
+VO	Vg Mid-Cap ETF
+VOE	Vg Mid-Cap Value ETF
+VOG	Voyager Oil & Gas In
+VOO	Vg S&P 500 ETF
+VOOG	Vg S&P 500 Growth ETF
+VOOV	Vg S&P 500 Value ETF
+VOT	Vg Mid-Cap Growth ETF
+VOX	Vg Telecom Services ETF
+VPL	MSCI Pacific
+VPU	Vg Utilities ETF
+VQT	Barclays Etn  S&P Veqtor
+VRD	S&P Vrdo Muni Bond ETF
+VRN.W	Vringo Inc. Warrants 5 Years
+VRNG	Vringo
+VROM	Global X/ Auto ETF
+VSPY	
+VSR	Versar
+VSS	Vg Ftse All-Wld Ex-Us Smcp Idx ETF
+VT	Vg Total World Stock Index ETF
+VTG	Vantage Drilling Company
+VTI	Vg Total Stock Market ETF
+VTV	Vg Value ETF
+VUG	Vg Growth ETF
+VV	Vg Large-Cap ETF
+VWO	MSCI Emerging Markets
+VXAA	
+VXBB	
+VXCC	
+VXDD	
+VXF	Vg Extended Market ETF
+VXX	S&P 500 VIX Short-Term Etn
+VXZ	S&P 500 VIX Mid-Term Etn
+VYM	Vg High Dividend Yield ETF
+VZZB	Ipath Long Enhanced S&P 500 VIX
+WAC	Hanover Capital Mortgage Holdings
+WCAT	CRB Wildcatters Exploration & Production
+WDTI	Managed Futures Strategy Fund
+WEAT	
+WEET	Ipath Pure Beta Grains Etn
+WEX	Winland Electronics
+WFVK	Wilshire 5000 Total Market ETF
+WGA	Wells-Gardner Electronics Corp.
+WIP	SPDR Db International Inflation Bond
+WIS.P	Wisconsin P L 450 10
+WITE	ETFs White Metals Basket Trust
+WMCO	
+WMCR	Wilshire Micro-Cap ETF
+WMW	Wide Moat Focus Tr Index Etn
+WPS	Ishares S&P Developed Ex-U.S. Property
+WREI	Wilshire US Reit
+WRN	Western Copper Corp
+WSO.B	Watsco Inc Cl B
+WSR	Whitestone Reit
+WSTE	Global X Waste Management ETF
+WTT	Wireless Telecom Group Inc.
+WXSP	Wilshire 4500 Completion
+WYY	Widepoint Corp.
+WZE	Wizzard Software Corp.
+XAR	
+XBI	S&P Biotech ETF
+XES	S&P Oil & Gas Equipment ETF
+XG	Extorre Gold Mines
+XGC	Guggenheim Intl Small Cap Ldrs ETF
+XHB	SPDR Homebuilders ETF
+XHE	S&P Health Care Equipment
+XHS	
+XIV	Velocityshares Etns
+XLB	SPDR Fund - Basic Industries
+XLBT	
+XLE	SPDR Fund - Energy Sector
+XLF	SPDR Fund - Financial
+XLG	Russell Top 50 ETF
+XLI	SPDR Fund - Industrial
+XLK	SPDR Fund - Technology
+XLP	SPDR Fund - Consumer Staples
+XLU	SPDR Fund - Utilities
+XLV	SPDR Fund - Health Care
+XLY	SPDR Fund - Consumer Discretionary
+XME	S&P Metals & Mining ETF
+XMPT	Market Vectors Cef Municipal In
+XOIL	Global X Oil Equities ETF
+XOP	S&P Oil & Gas Explor & Product
+XPH	SPDR S&P Pharmaceuticals ETF
+XPL	Solitario Exploration & Royalty Corp
+XPO	Express-1 Expedited Solutions
+XPP	Ultra Ftse China 25
+XRA	Exeter Resource Corp.
+XRO	Guggenheim Sector Rotation ETF
+XRT	S&P Retail ETF
+XSD	S&P Semiconductor ETF
+XSW	
+XTL	S&P Telecom ETF
+XTN	S&P Transportation ETF
+XVIX	Ag Daily Long-Short VIX Etn
+XVZ	Ipath S&P 500 Dynamic VIX Etn
+XXV	Inverse S&P 500 VIX S/T Etn
+YANG	Direxion China Bear 3X Shares
+YAO	Guggenheim China All-Cap ETF
+YCL	Ultra Yen
+YCS	Ultrashort Yen
+YINN	Direxion China Bull 3X Shares
+YMI	Ym Biosciences
+YXI	Short Ftse China 25
+ZBB	Zbb Energy Corporation
+ZBZX	
+ZIV	Velocityshares Daily Inverse VIX Medium-Term Etn
+ZROZ	Pimco 25+ Year Zero Coupon U.S. Treasury
+ZSL	Ultrashort Silver
+ZTEST	
