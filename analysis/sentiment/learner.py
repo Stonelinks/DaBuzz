@@ -41,4 +41,14 @@ class Learner(object):
     #Remove common words
     word_bag = word_bag - common_words
 
-    return dict([(word,True) for word in word_bag])  
+    d = dict([(word,True) for word in word_bag])
+
+    #Generate collocations
+    bigram_measures = nltk.collocations.BigramAssocMeasures()
+    finder = nltk.collocations.BigramCollocationFinder.from_words(s)
+
+    #Find 10 best collocations
+    l = finder.nbest(bigram_measures.pmi, 10)
+    d.update(dict([(collocation,True) for collocation in l]))
+
+    return d
