@@ -36,11 +36,10 @@ class crawl:
 class index:
   def GET(self):
     """ Show page """
-    todos = model.get_articles()
+    i = web.input(q='')
+    query = web.websafe(i.q) 
+    todos = model.get_articles(query)
     return render.index(todos)
-
-  def POST(self):
-    raise web.seeother('/')
 
 class blog:
   def GET(self):
