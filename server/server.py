@@ -16,6 +16,7 @@ urls = (
   '/crawl', 'crawl',
   '/blog', 'blog',
   '/about', 'about',
+  '/rankings', 'rankings',
   '/(static)/(.*)', 'static',
   '/del/(\d+)', 'delete'
 )
@@ -47,6 +48,15 @@ class blog:
 
   def POST(self):
     return self.GET()
+
+class rankings:
+  def GET(self):
+    top_pos = model.get_top_pos_articles()
+    top_neg = model.get_top_neg_articles()
+    return render.rankings(top_pos, top_neg)
+    
+  def POST(self):
+    raise web.seeother("/")
 
 class about:
   def GET(self):

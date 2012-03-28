@@ -13,9 +13,13 @@ else:
 def get_articles(q):
   if q:
    return db.query("SELECT * FROM articles WHERE LOWER(title) LIKE LOWER($query) ORDER BY time_crawled DESC LIMIT 50", vars=dict(query='%' + q + '%'))
-   #Tried doing it with arguments, didn't work well.
-   #return db.select('artcles', where="LOWER(title) LIKE LOWER($query)", order="time_crawled DESC", limit=50, vars=dict(query='%' + q + '%'))
   return db.select('articles', order='time_crawled DESC', limit=50)
+
+def get_top_pos_articles():
+  return db.select('articles', order='pos DESC', limit=5) 
+
+def get_top_neg_articles():
+  return db.select('articles', order='neg DESC', limit=5)
   
 def new_article(url, title, text, pos, neg, neu):
   db.insert('articles', 
