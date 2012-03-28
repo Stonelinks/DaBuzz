@@ -101,7 +101,11 @@ class LineWriter(formatter.AbstractWriter):
         
       except:
         pass
-      
+        
+      if l.density > 0.5:
+        output += l.text
+
+      """
       if l.density > 0.5:
         # "bag of words"
         t = l.text.replace('\n', ' ').replace('-', ' ')
@@ -116,9 +120,10 @@ class LineWriter(formatter.AbstractWriter):
           else:
             s += w.lower() + ' '
         output += s
+      """
     return output
 
-def bag_o_words_from_url(url):
+def text_from_url(url):
   response = urllib2.urlopen(str(url))
   html = response.read()
   return extract_text(html)

@@ -3,13 +3,12 @@
 import sys, os
 path = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(path, "./../../server"))
-sys.path.insert(0, os.path.join(path, "/dabuzz/server"))
 del sys, os
 
 import MySQLdb
 
 from dbinfo_manager import recover
-from html_extract import extract_text
+from html_extract import text_from_url
 
 def main():
   dbinfo = recover()
@@ -17,19 +16,16 @@ def main():
 
   cur = conn.cursor()
 
-  sql = "SELECT id,article_text FROM articles"
+  sql = "SELECT id,url FROM articles"
   cur.execute(sql)
-  for aid,article_text in cur.fetchall():
+  for aid,url in cur.fetchall():
     aid = int(aid)
 
-    #print article_text
-    article_text = extract_text(article_text)
-    #print article_text
+    article_text = text_from_url(url)
 
-    #Keep your hands away...
-    #sql = "UPDATE articles SET article_text=%s WHERE id=%s"
-    #args = [article_text,aid]
-    #cur.execute(sql,args)
+    sql = "UPDATE articles SET article_text=%s WHERE id=%s"
+    args = [article_text,aid]
+    cur.execute(sql,args)
 
   conn.commit()
 
