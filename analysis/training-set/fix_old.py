@@ -22,8 +22,9 @@ def main():
   for aid,article_text in cur.fetchall():
     aid = int(aid)
 
-    #print article_text
-    article_text = extract_text(article_text)
+    print aid
+    print article_text
+    #article_text = extract_text(article_text)
     #print article_text
 
     #Keep your hands away...

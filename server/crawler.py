@@ -59,7 +59,7 @@ def get_stories():
     for entry in feed['entries']:
       title = entry['title']
       url = entry['link']
-      summary = html_extract.bag_o_words_from_url(url)
+      summary = html_extract.text_from_url(url)
       results = sentiment(summary)
       if results["label"] != "Error":
         pos = float(results["probability"]["pos"])
