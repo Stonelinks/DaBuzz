@@ -41,4 +41,4 @@ class Learner(object):
     #Remove common words
     word_bag = word_bag - common_words
 
-    return Merge conflict!? Uh-oh. dict([(word,True) for word in word_bag])
+    return dict([(word,True) for word in word_bag])
