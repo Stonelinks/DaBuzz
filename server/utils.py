@@ -5,7 +5,7 @@ def run_bash(cmd):
   out = p.stdout.read().strip() + p.stderr.read().strip()
   return out
 
-def lowercase_l(list)
+def lowercase_l(list):
   for i in list:
     i.lower()
   return list
