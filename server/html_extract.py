@@ -6,6 +6,12 @@ import string
 
 # from tutorial at http://ai-depot.com/articles/the-easy-way-to-extract-useful-text-from-arbitrary-html/
 
+#Remove the garbage so htmllib can read it
+def preprocess_page(html):
+  start = html.find("<body>")
+  end = html.find("</body>")
+  return html[start:end+7]
+
 def extract_text(html):
   # Derive from formatter.AbstractWriter to store paragraphs.
   writer = LineWriter()
@@ -88,6 +94,8 @@ class LineWriter(formatter.AbstractWriter):
     self.compute_density()
     output = ''
     for l in self.lines:
+      #print l.text,l.density
+      
       # Check density against threshold.
       # Custom filter extensions go here.
       try:
@@ -126,4 +134,21 @@ class LineWriter(formatter.AbstractWriter):
 def text_from_url(url):
   response = urllib2.urlopen(str(url))
   html = response.read()
+  html = preprocess_page(html)
   return extract_text(html)
+
+if __name__ == "__main__":
+  response = urllib2.urlopen("http://www.google.com/racing")
+  html = response.read()
+  html = preprocess_page(html)
+  # Derive from formatter.AbstractWriter to store paragraphs.
+  writer = LineWriter()
+  # Default formatter sends commands to our writer.
+  format = formatter.AbstractFormatter(writer)
+  # Derive from htmllib.HTMLParser to track parsed bytes.
+  parser = TrackingParser(writer, format)
+  # Give the parser the raw HTML data.
+  parser.feed(html)
+  parser.close()
+  # Filter the paragraphs stored and output them.
+  print repr(writer.output())
