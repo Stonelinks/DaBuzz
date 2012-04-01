@@ -8,10 +8,13 @@ import string
 
 #Remove the garbage so htmllib can read it
 def preprocess_page(html):
+  """
   start = html.find("<html")
   end = html.find("</html>")
   print start,end
   return html[start:end+7]
+  """
+  return html
 
 def extract_text(html):
   # Derive from formatter.AbstractWriter to store paragraphs.
