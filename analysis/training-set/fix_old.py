@@ -26,7 +26,7 @@ def main():
         article_text = text_from_url(url)
       except:
         import sys
-        f.write(str(aid) + " " + sys.exc_info()[0] + "\n")
+        f.write(str(aid) + " " + str(sys.exc_info()) + "\n")
 
     sql = "UPDATE articles SET article_text=%s WHERE id=%s"
     args = [article_text,aid]
