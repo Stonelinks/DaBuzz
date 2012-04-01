@@ -136,14 +136,23 @@ class LineWriter(formatter.AbstractWriter):
     return output
 
 def text_from_url(url):
-  response = urllib2.urlopen(str(url))
+  opener = urllib2.build_opener()
+  opener.addheaders = [('User-agent','Mozilla/5.0')]
+  response = opener.open(str(url))
   html = response.read()
   html = preprocess_page(html)
   return extract_text(html)
 
 if __name__ == "__main__":
-  response = urllib2.urlopen("http://www.google.com/racing")
+  url = """http://www.thestreet.com/story/11461384/1/stocks-to-watch-adobe-amazon-goldman.html?cm_ven=GOOGLEN"""
+  opener = urllib2.build_opener()
+  opener.addheaders = [('User-agent','Mozilla/5.0')]
+  response = opener.open(url)
   html = response.read()
+  print html
+  import sys
+  sys.exit(0)
+  
   html = preprocess_page(html)
   # Derive from formatter.AbstractWriter to store paragraphs.
   writer = LineWriter()
