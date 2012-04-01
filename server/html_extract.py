@@ -8,8 +8,9 @@ import string
 
 #Remove the garbage so htmllib can read it
 def preprocess_page(html):
-  start = html.find("<body>")
-  end = html.find("</body>")
+  start = html.find("<head>")
+  end = html.find("</head>")
+  print start,end
   return html[start:end+7]
 
 def extract_text(html):
