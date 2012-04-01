@@ -147,7 +147,6 @@ if __name__ == "__main__":
   url = """http://www.thestreet.com/story/11461384/1/stocks-to-watch-adobe-amazon-goldman.html?cm_ven=GOOGLEN"""
   opener = urllib2.build_opener()
   opener.addheaders = [('User-agent','Mozilla/5.0')]
-  response = opener.open(url)
   html = response.read()
   print html
   import sys

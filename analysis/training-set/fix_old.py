@@ -21,7 +21,12 @@ def main():
   for aid,url in cur.fetchall():
     aid = int(aid)
 
-    article_text = text_from_url(url)
+    with open("bad_urls","w") as f:
+    try:
+      article_text = text_from_url(url)
+    except:
+      import sys
+      f.write(str(aid) + " " + sys.exc_info() + "\n")
 
     sql = "UPDATE articles SET article_text=%s WHERE id=%s"
     args = [article_text,aid]
