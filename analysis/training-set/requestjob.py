@@ -17,7 +17,7 @@ class RequestJob(object):
     cur.execute(sql)
     selection = int(cur.fetchone()[0])
 
-    sql = "SELECT id,title FROM articles WHERE trainset=1 LIMIT 1 OFFSET %s"
+    sql = "SELECT id,article_text FROM articles WHERE trainset=1 LIMIT 1 OFFSET %s"
     args = [selection]
     cur.execute(sql, args)
 
