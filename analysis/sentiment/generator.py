@@ -25,14 +25,10 @@ def main():
     items = [ (1, int(trainpos)),(0, int(trainneutral)),(-1, int(trainneg)) ]
     classification = max(items, key=lambda x : x[1])[0]
     a.add_string(article_text, classification)
-
-    sql = "UPDATE articles SET score=%s WHERE id=%s"
-    args = [classification,aid]
-    cur.execute(sql,args)
   a.train()
 
-  #Train
-  sql = "SELECT id,article_text FROM articles WHERE trainset=0"
+  #Predict
+  sql = "SELECT id,article_text FROM articles"
   cur.execute(sql)
   b = Classifier(a)
   for aid,article_text in cur.fetchall():
@@ -41,6 +37,7 @@ def main():
     sql = "UPDATE articles SET score=%s WHERE id=%s"
     args = [classification,aid]
     cur.execute(sql,args)
+    print aid,classification
 
   conn.commit()
 
