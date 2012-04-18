@@ -20,7 +20,7 @@ def main():
   sql = "SELECT id,article_text,trainpos,trainneg,trainneutral FROM articles WHERE trainset=1 AND (trainpos>0 OR trainneg>0 OR trainneutral>0)"
   cur.execute(sql)
   a = Learner()
-  for aid,article_text,trainpos,trainneg,trainneural in cur.fetchall():
+  for aid,article_text,trainpos,trainneg,trainneutral in cur.fetchall():
     aid = int(aid)
     items = [ (1, int(trainpos)),(0, int(trainneutral)),(-1, int(trainneg)) ]
     classification = max(items, key=lambda x : x[1])[0]
