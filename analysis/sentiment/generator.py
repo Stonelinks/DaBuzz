@@ -28,7 +28,7 @@ def main():
 
     #sql = "UPDATE articles SET score=%s WHERE id=%s"
     #args = [classification,aid]
-    cur.execute(sql,args)
+    #cur.execute(sql,args)
   a.train()
 
   #Predict
