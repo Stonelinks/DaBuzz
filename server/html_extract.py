@@ -34,10 +34,12 @@ class TrackingParser(htmllib.HTMLParser):
   def __init__(self, writer, *args):
     htmllib.HTMLParser.__init__(self, *args)
     self.writer = writer
+    
   def parse_starttag(self, i):
     index = htmllib.HTMLParser.parse_starttag(self, i)
     self.writer.index = index
     return index
+    
   def parse_endtag(self, i):
     self.writer.index = i
     return htmllib.HTMLParser.parse_endtag(self, i)
@@ -135,6 +137,25 @@ class LineWriter(formatter.AbstractWriter):
       """
     return output
 
+def bag_of_words(text):
+  # "bag of words"
+  output = ''
+  for line in text.split('\n'):
+    t = line.replace('\n', ' ').replace('-', ' ')
+    exclude = set(string.punctuation)
+    t = ''.join(ch for ch in t if ch not in exclude)
+    include = set(str(string.ascii_letters + ' ' + string.digits))
+    t = ''.join(ch for ch in t if ch in include)
+    s = ''
+    for w in t.split(' '):
+      if w == '':
+        continue
+      else:
+        s += w.lower() + ' '
+    output += s
+  return output
+  
+
 def text_from_url(url):
   opener = urllib2.build_opener()
   opener.addheaders = [('User-agent','Mozilla/5.0')]
@@ -153,14 +174,19 @@ if __name__ == "__main__":
   sys.exit(0)
   
   html = preprocess_page(html)
+  
   # Derive from formatter.AbstractWriter to store paragraphs.
   writer = LineWriter()
+  
   # Default formatter sends commands to our writer.
   format = formatter.AbstractFormatter(writer)
+  
   # Derive from htmllib.HTMLParser to track parsed bytes.
   parser = TrackingParser(writer, format)
+  
   # Give the parser the raw HTML data.
   parser.feed(html)
   parser.close()
+  
   # Filter the paragraphs stored and output them.
   print repr(writer.output())

@@ -1,3 +1,5 @@
+import string
+
 nyse_file = "../data/NYSE.txt"
 nasdaq_file = "../data/NASDAQ.txt"
 amex_file = "../data/AMEX.txt"
@@ -7,8 +9,10 @@ class company_finder():
     self.build_data()
   
   def build_data(self):
+    
     # empty list of tickers
     self.tickers = []
+    self.tickers_no_punct = []
     self.names = []
     
     # keys = tickers and company names
@@ -25,6 +29,7 @@ class company_finder():
         l = line.split('\t')
         try:
           this_ticker = l[0]
+          this_ticker_no_punct = ''.join(ch for ch in this_ticker if ch not in set(string.punctuation))
           this_name = l[1].lower()
           
           # some lines in the files are not complete
@@ -36,22 +41,35 @@ class company_finder():
           
         # add it to data
         self.tickers.append(this_ticker)
+        self.tickers_no_punct.append(this_ticker_no_punct)
         self.names.append(this_name)
         self.lookup_table[this_name] = i
         self.lookup_table[this_ticker] = i
+        self.lookup_table[this_ticker_no_punct] = i
         i += 1
       f.close()
 
   def ticker2name(self, ticker):
     return self.names[self.lookup_table[ticker]]
 
+  def is_ticker(self, ticker):
+    if len(ticker) >= 5:
+      return False
+    elif ticker in self.lookup_table.keys():
+      return True
+    else:
+      return False
+  
+  def is_name(self, name):
+    if name in self.lookup_table.keys():
+      return True
+    else:
+      return False
+  
   def name2ticker(self, name):
-    
     # the naive approach
-    try:
+    if name in self.lookup_table:
       return self.tickers[self.lookup_table[name]]
-    except:
-      pass
     
     desired_name = name.split(' ')
     
@@ -66,20 +84,47 @@ class company_finder():
       hits[this_hit_count] = i
       i += 1
     if max(hits.keys()) == 0:
-      print "ticker", name, "not found"
-      raise
+      #print "ticker", name, "not found"
+      return False
     else:
       return self.tickers[hits[max(hits.keys())]]
 
+def tickers_from_text(text):
+  wordlist = text.split(' ')
+  search_list = []
+  depth = 3
+  for i in range(1, depth + 1):
+    for j in range(len(wordlist)):
+      tmp = []
+      for k in range(j, j + i):
+        if k < len(wordlist):
+          tmp.append(wordlist[k])
+      search_string = ' '.join(tmp).replace('\n', ' ').strip()
+      search_list.append(search_string)
 
-c = company_finder()
+  hits = {}
+  c = company_finder()
 
-print c.name2ticker('apple')
-print c.name2ticker('google')
-print c.name2ticker('toyota motor')
-print c.name2ticker('honda')
-print c.name2ticker('motorola')
+  for term in search_list:
+    # treat the term as a ticker first
+    ticker1 = string.upper(term)
+    if c.is_ticker(ticker1):
+      try:
+        hits[ticker1] += 1
+      except:
+        hits[ticker1] = 1
+    
+    # treat the term as a company name second
+    ticker2 = c.name2ticker(term)
+    if ticker2:
+      try:
+        hits[ticker2] += 1
+      except:
+        hits[ticker2] = 1
 
-print c.name2ticker('bread')
-print c.name2ticker('panera')
-print c.name2ticker('panera bread')
+  output = []
+  for ticker, hit in reversed(sorted(hits.items(), key=lambda x: x[1])):
+    output.append((hit, ticker))
+
+  return output[0]
+
